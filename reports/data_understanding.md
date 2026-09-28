@@ -11,7 +11,7 @@ All numbers below come from `src/profile_raw.py` run on the raw CSVs.
 | orders | 32,313 | 2012-03-19 to 2015-03-19 | one row per order (max one per session) |
 | order_items | 40,025 | 2012-03-19 to 2015-03-19 | one row per product in an order |
 | order_item_refunds | 1,731 | 2012-04-06 to 2015-04-01 | one row per refunded order item |
-| products | 4 | launches 2012-03-19 to 2014-12-05 | one row per product |
+| products | 4 | launches 2012-03-19 to 2014-02-05 | one row per product |
 
 ## Relationships
 
@@ -36,9 +36,11 @@ erDiagram
 | 1 | The Original Mr. Fuzzy | 2012-03-19 | 49.99 | 19.49 |
 | 2 | The Forever Love Bear | 2013-01-06 | 59.99 | 22.49 |
 | 3 | The Birthday Sugar Panda | 2013-12-12 | 45.99 | 14.49 |
-| 4 | The Hudson River Mini Bear | 2014-12-05 | 29.99 | 9.49 |
+| 4 | The Hudson River Mini Bear | 2014-02-05 | 29.99 | 9.49 |
 
 Prices and costs never change over time. Orders have 1 item (24,601) or 2 items (7,712).
+Two-item orders start on 2013-09-25 (a second product can be added at the cart).
+The Mini Bear was sold only as a cart add-on from 2014-02-05; its own product page appeared on 2014-12-05.
 
 ## Pages and the funnel
 
