@@ -181,9 +181,7 @@ refund-rate baselines.
 
 ## Dashboard
 
-**[Open the interactive version on Tableau Public](https://public.tableau.com/app/profile/mainak.das6780/viz/MavenFuzzyFactory-FunnelandABTestAnalysis/FunnelandABTestOverview)**
-
-![Tableau dashboard](images/tableau_dashboard.png)
+**[Open the interactive version on Tableau Public](https://public.tableau.com/app/profile/mainak.das6780/viz/MavenFuzzyFactory-FunnelandABTestAnalysis/FunnelandABTestOverview)** (screenshot at the top of this page)
 
 | Chart | Data source | What it shows |
 |---|---|---|
