@@ -1,0 +1,11 @@
+test,test_name,variant,page,sessions,orders,conv_rate,conv_ci_low,conv_ci_high,bounce_rate,revenue_per_session
+T1,/home vs /lander-1,A,/home,2328,75,0.032216,0.025044,0.039389,0.58634,1.610503
+T1,/home vs /lander-1,B,/lander-1,2381,96,0.040319,0.032418,0.04822,0.530029,2.015556
+T2,/lander-1 vs /lander-2,A,/lander-1,4957,286,0.057696,0.051205,0.064187,0.538431,3.04562
+T2,/lander-1 vs /lander-2,B,/lander-2,4966,317,0.063834,0.057035,0.070633,0.476641,3.362229
+T3,/billing vs /billing-2,A,/billing,1663,750,0.450992,0.427076,0.474908,,22.545099
+T3,/billing vs /billing-2,B,/billing-2,1658,1030,0.62123,0.597881,0.64458,,31.055308
+T4,/lander-2 vs /lander-4,A,/lander-2,9402,835,0.088811,0.083061,0.094561,0.428313,5.678883
+T4,/lander-2 vs /lander-4,B,/lander-4,9385,708,0.07544,0.070096,0.080783,0.516889,4.843964
+T5,/lander-2 vs /lander-5,A,/lander-2,14501,1214,0.083718,0.07921,0.088226,0.43328,5.431574
+T5,/lander-2 vs /lander-5,B,/lander-5,14385,1441,0.100174,0.095267,0.10508,0.364129,6.377093

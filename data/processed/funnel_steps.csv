@@ -1,0 +1,2150 @@
+session_month,channel_group,device_type,step_num,step_name,sessions
+2012-03-01,direct_type_in,desktop,1,1. Landing page,6
+2012-03-01,direct_type_in,desktop,2,2. Products,3
+2012-03-01,direct_type_in,desktop,3,3. Product page,3
+2012-03-01,direct_type_in,desktop,4,4. Cart,3
+2012-03-01,direct_type_in,desktop,5,5. Shipping,3
+2012-03-01,direct_type_in,desktop,6,6. Billing,2
+2012-03-01,direct_type_in,desktop,7,7. Order,0
+2012-03-01,direct_type_in,mobile,1,1. Landing page,3
+2012-03-01,direct_type_in,mobile,2,2. Products,3
+2012-03-01,direct_type_in,mobile,3,3. Product page,0
+2012-03-01,direct_type_in,mobile,4,4. Cart,0
+2012-03-01,direct_type_in,mobile,5,5. Shipping,0
+2012-03-01,direct_type_in,mobile,6,6. Billing,0
+2012-03-01,direct_type_in,mobile,7,7. Order,0
+2012-03-01,organic_search,desktop,1,1. Landing page,5
+2012-03-01,organic_search,desktop,2,2. Products,5
+2012-03-01,organic_search,desktop,3,3. Product page,5
+2012-03-01,organic_search,desktop,4,4. Cart,1
+2012-03-01,organic_search,desktop,5,5. Shipping,1
+2012-03-01,organic_search,desktop,6,6. Billing,1
+2012-03-01,organic_search,desktop,7,7. Order,0
+2012-03-01,organic_search,mobile,1,1. Landing page,3
+2012-03-01,organic_search,mobile,2,2. Products,2
+2012-03-01,organic_search,mobile,3,3. Product page,0
+2012-03-01,organic_search,mobile,4,4. Cart,0
+2012-03-01,organic_search,mobile,5,5. Shipping,0
+2012-03-01,organic_search,mobile,6,6. Billing,0
+2012-03-01,organic_search,mobile,7,7. Order,0
+2012-03-01,paid_brand,desktop,1,1. Landing page,6
+2012-03-01,paid_brand,desktop,2,2. Products,3
+2012-03-01,paid_brand,desktop,3,3. Product page,2
+2012-03-01,paid_brand,desktop,4,4. Cart,0
+2012-03-01,paid_brand,desktop,5,5. Shipping,0
+2012-03-01,paid_brand,desktop,6,6. Billing,0
+2012-03-01,paid_brand,desktop,7,7. Order,0
+2012-03-01,paid_brand,mobile,1,1. Landing page,4
+2012-03-01,paid_brand,mobile,2,2. Products,1
+2012-03-01,paid_brand,mobile,3,3. Product page,0
+2012-03-01,paid_brand,mobile,4,4. Cart,0
+2012-03-01,paid_brand,mobile,5,5. Shipping,0
+2012-03-01,paid_brand,mobile,6,6. Billing,0
+2012-03-01,paid_brand,mobile,7,7. Order,0
+2012-03-01,paid_nonbrand,desktop,1,1. Landing page,1128
+2012-03-01,paid_nonbrand,desktop,2,2. Products,512
+2012-03-01,paid_nonbrand,desktop,3,3. Product page,395
+2012-03-01,paid_nonbrand,desktop,4,4. Cart,169
+2012-03-01,paid_nonbrand,desktop,5,5. Shipping,126
+2012-03-01,paid_nonbrand,desktop,6,6. Billing,102
+2012-03-01,paid_nonbrand,desktop,7,7. Order,50
+2012-03-01,paid_nonbrand,mobile,1,1. Landing page,724
+2012-03-01,paid_nonbrand,mobile,2,2. Products,214
+2012-03-01,paid_nonbrand,mobile,3,3. Product page,125
+2012-03-01,paid_nonbrand,mobile,4,4. Cart,56
+2012-03-01,paid_nonbrand,mobile,5,5. Shipping,27
+2012-03-01,paid_nonbrand,mobile,6,6. Billing,19
+2012-03-01,paid_nonbrand,mobile,7,7. Order,10
+2012-04-01,direct_type_in,desktop,1,1. Landing page,40
+2012-04-01,direct_type_in,desktop,2,2. Products,27
+2012-04-01,direct_type_in,desktop,3,3. Product page,22
+2012-04-01,direct_type_in,desktop,4,4. Cart,9
+2012-04-01,direct_type_in,desktop,5,5. Shipping,7
+2012-04-01,direct_type_in,desktop,6,6. Billing,6
+2012-04-01,direct_type_in,desktop,7,7. Order,2
+2012-04-01,direct_type_in,mobile,1,1. Landing page,31
+2012-04-01,direct_type_in,mobile,2,2. Products,17
+2012-04-01,direct_type_in,mobile,3,3. Product page,13
+2012-04-01,direct_type_in,mobile,4,4. Cart,6
+2012-04-01,direct_type_in,mobile,5,5. Shipping,6
+2012-04-01,direct_type_in,mobile,6,6. Billing,6
+2012-04-01,direct_type_in,mobile,7,7. Order,3
+2012-04-01,organic_search,desktop,1,1. Landing page,53
+2012-04-01,organic_search,desktop,2,2. Products,31
+2012-04-01,organic_search,desktop,3,3. Product page,19
+2012-04-01,organic_search,desktop,4,4. Cart,6
+2012-04-01,organic_search,desktop,5,5. Shipping,5
+2012-04-01,organic_search,desktop,6,6. Billing,4
+2012-04-01,organic_search,desktop,7,7. Order,2
+2012-04-01,organic_search,mobile,1,1. Landing page,25
+2012-04-01,organic_search,mobile,2,2. Products,8
+2012-04-01,organic_search,mobile,3,3. Product page,4
+2012-04-01,organic_search,mobile,4,4. Cart,2
+2012-04-01,organic_search,mobile,5,5. Shipping,1
+2012-04-01,organic_search,mobile,6,6. Billing,1
+2012-04-01,organic_search,mobile,7,7. Order,0
+2012-04-01,paid_brand,desktop,1,1. Landing page,53
+2012-04-01,paid_brand,desktop,2,2. Products,31
+2012-04-01,paid_brand,desktop,3,3. Product page,26
+2012-04-01,paid_brand,desktop,4,4. Cart,12
+2012-04-01,paid_brand,desktop,5,5. Shipping,7
+2012-04-01,paid_brand,desktop,6,6. Billing,7
+2012-04-01,paid_brand,desktop,7,7. Order,5
+2012-04-01,paid_brand,mobile,1,1. Landing page,23
+2012-04-01,paid_brand,mobile,2,2. Products,12
+2012-04-01,paid_brand,mobile,3,3. Product page,8
+2012-04-01,paid_brand,mobile,4,4. Cart,4
+2012-04-01,paid_brand,mobile,5,5. Shipping,2
+2012-04-01,paid_brand,mobile,6,6. Billing,1
+2012-04-01,paid_brand,mobile,7,7. Order,1
+2012-04-01,paid_nonbrand,desktop,1,1. Landing page,2139
+2012-04-01,paid_nonbrand,desktop,2,2. Products,943
+2012-04-01,paid_nonbrand,desktop,3,3. Product page,713
+2012-04-01,paid_nonbrand,desktop,4,4. Cart,309
+2012-04-01,paid_nonbrand,desktop,5,5. Shipping,209
+2012-04-01,paid_nonbrand,desktop,6,6. Billing,178
+2012-04-01,paid_nonbrand,desktop,7,7. Order,75
+2012-04-01,paid_nonbrand,mobile,1,1. Landing page,1370
+2012-04-01,paid_nonbrand,mobile,2,2. Products,378
+2012-04-01,paid_nonbrand,mobile,3,3. Product page,224
+2012-04-01,paid_nonbrand,mobile,4,4. Cart,88
+2012-04-01,paid_nonbrand,mobile,5,5. Shipping,48
+2012-04-01,paid_nonbrand,mobile,6,6. Billing,28
+2012-04-01,paid_nonbrand,mobile,7,7. Order,11
+2012-05-01,direct_type_in,desktop,1,1. Landing page,84
+2012-05-01,direct_type_in,desktop,2,2. Products,62
+2012-05-01,direct_type_in,desktop,3,3. Product page,52
+2012-05-01,direct_type_in,desktop,4,4. Cart,21
+2012-05-01,direct_type_in,desktop,5,5. Shipping,15
+2012-05-01,direct_type_in,desktop,6,6. Billing,13
+2012-05-01,direct_type_in,desktop,7,7. Order,6
+2012-05-01,direct_type_in,mobile,1,1. Landing page,67
+2012-05-01,direct_type_in,mobile,2,2. Products,40
+2012-05-01,direct_type_in,mobile,3,3. Product page,23
+2012-05-01,direct_type_in,mobile,4,4. Cart,10
+2012-05-01,direct_type_in,mobile,5,5. Shipping,6
+2012-05-01,direct_type_in,mobile,6,6. Billing,5
+2012-05-01,direct_type_in,mobile,7,7. Order,2
+2012-05-01,organic_search,desktop,1,1. Landing page,99
+2012-05-01,organic_search,desktop,2,2. Products,68
+2012-05-01,organic_search,desktop,3,3. Product page,56
+2012-05-01,organic_search,desktop,4,4. Cart,17
+2012-05-01,organic_search,desktop,5,5. Shipping,10
+2012-05-01,organic_search,desktop,6,6. Billing,9
+2012-05-01,organic_search,desktop,7,7. Order,3
+2012-05-01,organic_search,mobile,1,1. Landing page,51
+2012-05-01,organic_search,mobile,2,2. Products,23
+2012-05-01,organic_search,mobile,3,3. Product page,14
+2012-05-01,organic_search,mobile,4,4. Cart,7
+2012-05-01,organic_search,mobile,5,5. Shipping,3
+2012-05-01,organic_search,mobile,6,6. Billing,3
+2012-05-01,organic_search,mobile,7,7. Order,0
+2012-05-01,paid_brand,desktop,1,1. Landing page,96
+2012-05-01,paid_brand,desktop,2,2. Products,68
+2012-05-01,paid_brand,desktop,3,3. Product page,52
+2012-05-01,paid_brand,desktop,4,4. Cart,22
+2012-05-01,paid_brand,desktop,5,5. Shipping,15
+2012-05-01,paid_brand,desktop,6,6. Billing,11
+2012-05-01,paid_brand,desktop,7,7. Order,4
+2012-05-01,paid_brand,mobile,1,1. Landing page,44
+2012-05-01,paid_brand,mobile,2,2. Products,22
+2012-05-01,paid_brand,mobile,3,3. Product page,19
+2012-05-01,paid_brand,mobile,4,4. Cart,6
+2012-05-01,paid_brand,mobile,5,5. Shipping,4
+2012-05-01,paid_brand,mobile,6,6. Billing,3
+2012-05-01,paid_brand,mobile,7,7. Order,2
+2012-05-01,paid_nonbrand,desktop,1,1. Landing page,2276
+2012-05-01,paid_nonbrand,desktop,2,2. Products,1008
+2012-05-01,paid_nonbrand,desktop,3,3. Product page,749
+2012-05-01,paid_nonbrand,desktop,4,4. Cart,328
+2012-05-01,paid_nonbrand,desktop,5,5. Shipping,221
+2012-05-01,paid_nonbrand,desktop,6,6. Billing,185
+2012-05-01,paid_nonbrand,desktop,7,7. Order,83
+2012-05-01,paid_nonbrand,mobile,1,1. Landing page,1019
+2012-05-01,paid_nonbrand,mobile,2,2. Products,294
+2012-05-01,paid_nonbrand,mobile,3,3. Product page,171
+2012-05-01,paid_nonbrand,mobile,4,4. Cart,66
+2012-05-01,paid_nonbrand,mobile,5,5. Shipping,39
+2012-05-01,paid_nonbrand,mobile,6,6. Billing,31
+2012-05-01,paid_nonbrand,mobile,7,7. Order,8
+2012-06-01,direct_type_in,desktop,1,1. Landing page,99
+2012-06-01,direct_type_in,desktop,2,2. Products,74
+2012-06-01,direct_type_in,desktop,3,3. Product page,57
+2012-06-01,direct_type_in,desktop,4,4. Cart,23
+2012-06-01,direct_type_in,desktop,5,5. Shipping,17
+2012-06-01,direct_type_in,desktop,6,6. Billing,15
+2012-06-01,direct_type_in,desktop,7,7. Order,7
+2012-06-01,direct_type_in,mobile,1,1. Landing page,71
+2012-06-01,direct_type_in,mobile,2,2. Products,35
+2012-06-01,direct_type_in,mobile,3,3. Product page,18
+2012-06-01,direct_type_in,mobile,4,4. Cart,7
+2012-06-01,direct_type_in,mobile,5,5. Shipping,6
+2012-06-01,direct_type_in,mobile,6,6. Billing,4
+2012-06-01,direct_type_in,mobile,7,7. Order,1
+2012-06-01,organic_search,desktop,1,1. Landing page,130
+2012-06-01,organic_search,desktop,2,2. Products,94
+2012-06-01,organic_search,desktop,3,3. Product page,74
+2012-06-01,organic_search,desktop,4,4. Cart,34
+2012-06-01,organic_search,desktop,5,5. Shipping,21
+2012-06-01,organic_search,desktop,6,6. Billing,18
+2012-06-01,organic_search,desktop,7,7. Order,10
+2012-06-01,organic_search,mobile,1,1. Landing page,60
+2012-06-01,organic_search,mobile,2,2. Products,23
+2012-06-01,organic_search,mobile,3,3. Product page,10
+2012-06-01,organic_search,mobile,4,4. Cart,6
+2012-06-01,organic_search,mobile,5,5. Shipping,0
+2012-06-01,organic_search,mobile,6,6. Billing,0
+2012-06-01,organic_search,mobile,7,7. Order,0
+2012-06-01,paid_brand,desktop,1,1. Landing page,112
+2012-06-01,paid_brand,desktop,2,2. Products,77
+2012-06-01,paid_brand,desktop,3,3. Product page,54
+2012-06-01,paid_brand,desktop,4,4. Cart,28
+2012-06-01,paid_brand,desktop,5,5. Shipping,16
+2012-06-01,paid_brand,desktop,6,6. Billing,15
+2012-06-01,paid_brand,desktop,7,7. Order,8
+2012-06-01,paid_brand,mobile,1,1. Landing page,52
+2012-06-01,paid_brand,mobile,2,2. Products,29
+2012-06-01,paid_brand,mobile,3,3. Product page,14
+2012-06-01,paid_brand,mobile,4,4. Cart,4
+2012-06-01,paid_brand,mobile,5,5. Shipping,1
+2012-06-01,paid_brand,mobile,6,6. Billing,0
+2012-06-01,paid_brand,mobile,7,7. Order,0
+2012-06-01,paid_nonbrand,desktop,1,1. Landing page,2673
+2012-06-01,paid_nonbrand,desktop,2,2. Products,1197
+2012-06-01,paid_nonbrand,desktop,3,3. Product page,892
+2012-06-01,paid_nonbrand,desktop,4,4. Cart,404
+2012-06-01,paid_nonbrand,desktop,5,5. Shipping,283
+2012-06-01,paid_nonbrand,desktop,6,6. Billing,242
+2012-06-01,paid_nonbrand,desktop,7,7. Order,106
+2012-06-01,paid_nonbrand,mobile,1,1. Landing page,766
+2012-06-01,paid_nonbrand,mobile,2,2. Products,222
+2012-06-01,paid_nonbrand,mobile,3,3. Product page,127
+2012-06-01,paid_nonbrand,mobile,4,4. Cart,53
+2012-06-01,paid_nonbrand,mobile,5,5. Shipping,36
+2012-06-01,paid_nonbrand,mobile,6,6. Billing,27
+2012-06-01,paid_nonbrand,mobile,7,7. Order,8
+2012-07-01,direct_type_in,desktop,1,1. Landing page,122
+2012-07-01,direct_type_in,desktop,2,2. Products,88
+2012-07-01,direct_type_in,desktop,3,3. Product page,65
+2012-07-01,direct_type_in,desktop,4,4. Cart,27
+2012-07-01,direct_type_in,desktop,5,5. Shipping,15
+2012-07-01,direct_type_in,desktop,6,6. Billing,14
+2012-07-01,direct_type_in,desktop,7,7. Order,8
+2012-07-01,direct_type_in,mobile,1,1. Landing page,65
+2012-07-01,direct_type_in,mobile,2,2. Products,29
+2012-07-01,direct_type_in,mobile,3,3. Product page,23
+2012-07-01,direct_type_in,mobile,4,4. Cart,11
+2012-07-01,direct_type_in,mobile,5,5. Shipping,7
+2012-07-01,direct_type_in,mobile,6,6. Billing,6
+2012-07-01,direct_type_in,mobile,7,7. Order,1
+2012-07-01,organic_search,desktop,1,1. Landing page,137
+2012-07-01,organic_search,desktop,2,2. Products,90
+2012-07-01,organic_search,desktop,3,3. Product page,66
+2012-07-01,organic_search,desktop,4,4. Cart,21
+2012-07-01,organic_search,desktop,5,5. Shipping,16
+2012-07-01,organic_search,desktop,6,6. Billing,15
+2012-07-01,organic_search,desktop,7,7. Order,10
+2012-07-01,organic_search,mobile,1,1. Landing page,70
+2012-07-01,organic_search,mobile,2,2. Products,36
+2012-07-01,organic_search,mobile,3,3. Product page,21
+2012-07-01,organic_search,mobile,4,4. Cart,7
+2012-07-01,organic_search,mobile,5,5. Shipping,6
+2012-07-01,organic_search,mobile,6,6. Billing,6
+2012-07-01,organic_search,mobile,7,7. Order,3
+2012-07-01,paid_brand,desktop,1,1. Landing page,120
+2012-07-01,paid_brand,desktop,2,2. Products,79
+2012-07-01,paid_brand,desktop,3,3. Product page,52
+2012-07-01,paid_brand,desktop,4,4. Cart,25
+2012-07-01,paid_brand,desktop,5,5. Shipping,19
+2012-07-01,paid_brand,desktop,6,6. Billing,19
+2012-07-01,paid_brand,desktop,7,7. Order,10
+2012-07-01,paid_brand,mobile,1,1. Landing page,75
+2012-07-01,paid_brand,mobile,2,2. Products,37
+2012-07-01,paid_brand,mobile,3,3. Product page,22
+2012-07-01,paid_brand,mobile,4,4. Cart,10
+2012-07-01,paid_brand,mobile,5,5. Shipping,4
+2012-07-01,paid_brand,mobile,6,6. Billing,2
+2012-07-01,paid_brand,mobile,7,7. Order,1
+2012-07-01,paid_nonbrand,desktop,1,1. Landing page,2774
+2012-07-01,paid_nonbrand,desktop,2,2. Products,1359
+2012-07-01,paid_nonbrand,desktop,3,3. Product page,1020
+2012-07-01,paid_nonbrand,desktop,4,4. Cart,462
+2012-07-01,paid_nonbrand,desktop,5,5. Shipping,309
+2012-07-01,paid_nonbrand,desktop,6,6. Billing,269
+2012-07-01,paid_nonbrand,desktop,7,7. Order,122
+2012-07-01,paid_nonbrand,mobile,1,1. Landing page,886
+2012-07-01,paid_nonbrand,mobile,2,2. Products,301
+2012-07-01,paid_nonbrand,mobile,3,3. Product page,170
+2012-07-01,paid_nonbrand,mobile,4,4. Cart,74
+2012-07-01,paid_nonbrand,mobile,5,5. Shipping,45
+2012-07-01,paid_nonbrand,mobile,6,6. Billing,34
+2012-07-01,paid_nonbrand,mobile,7,7. Order,14
+2012-08-01,direct_type_in,desktop,1,1. Landing page,144
+2012-08-01,direct_type_in,desktop,2,2. Products,99
+2012-08-01,direct_type_in,desktop,3,3. Product page,73
+2012-08-01,direct_type_in,desktop,4,4. Cart,36
+2012-08-01,direct_type_in,desktop,5,5. Shipping,30
+2012-08-01,direct_type_in,desktop,6,6. Billing,22
+2012-08-01,direct_type_in,desktop,7,7. Order,8
+2012-08-01,direct_type_in,mobile,1,1. Landing page,106
+2012-08-01,direct_type_in,mobile,2,2. Products,54
+2012-08-01,direct_type_in,mobile,3,3. Product page,27
+2012-08-01,direct_type_in,mobile,4,4. Cart,11
+2012-08-01,direct_type_in,mobile,5,5. Shipping,7
+2012-08-01,direct_type_in,mobile,6,6. Billing,5
+2012-08-01,direct_type_in,mobile,7,7. Order,3
+2012-08-01,organic_search,desktop,1,1. Landing page,181
+2012-08-01,organic_search,desktop,2,2. Products,123
+2012-08-01,organic_search,desktop,3,3. Product page,99
+2012-08-01,organic_search,desktop,4,4. Cart,48
+2012-08-01,organic_search,desktop,5,5. Shipping,42
+2012-08-01,organic_search,desktop,6,6. Billing,34
+2012-08-01,organic_search,desktop,7,7. Order,14
+2012-08-01,organic_search,mobile,1,1. Landing page,84
+2012-08-01,organic_search,mobile,2,2. Products,39
+2012-08-01,organic_search,mobile,3,3. Product page,18
+2012-08-01,organic_search,mobile,4,4. Cart,4
+2012-08-01,organic_search,mobile,5,5. Shipping,2
+2012-08-01,organic_search,mobile,6,6. Billing,0
+2012-08-01,organic_search,mobile,7,7. Order,0
+2012-08-01,paid_brand,desktop,1,1. Landing page,176
+2012-08-01,paid_brand,desktop,2,2. Products,112
+2012-08-01,paid_brand,desktop,3,3. Product page,86
+2012-08-01,paid_brand,desktop,4,4. Cart,43
+2012-08-01,paid_brand,desktop,5,5. Shipping,36
+2012-08-01,paid_brand,desktop,6,6. Billing,29
+2012-08-01,paid_brand,desktop,7,7. Order,12
+2012-08-01,paid_brand,mobile,1,1. Landing page,88
+2012-08-01,paid_brand,mobile,2,2. Products,51
+2012-08-01,paid_brand,mobile,3,3. Product page,25
+2012-08-01,paid_brand,mobile,4,4. Cart,13
+2012-08-01,paid_brand,mobile,5,5. Shipping,2
+2012-08-01,paid_brand,mobile,6,6. Billing,1
+2012-08-01,paid_brand,mobile,7,7. Order,1
+2012-08-01,paid_nonbrand,desktop,1,1. Landing page,4092
+2012-08-01,paid_nonbrand,desktop,2,2. Products,2124
+2012-08-01,paid_nonbrand,desktop,3,3. Product page,1613
+2012-08-01,paid_nonbrand,desktop,4,4. Cart,710
+2012-08-01,paid_nonbrand,desktop,5,5. Shipping,474
+2012-08-01,paid_nonbrand,desktop,6,6. Billing,388
+2012-08-01,paid_nonbrand,desktop,7,7. Order,181
+2012-08-01,paid_nonbrand,mobile,1,1. Landing page,1226
+2012-08-01,paid_nonbrand,mobile,2,2. Products,409
+2012-08-01,paid_nonbrand,mobile,3,3. Product page,256
+2012-08-01,paid_nonbrand,mobile,4,4. Cart,95
+2012-08-01,paid_nonbrand,mobile,5,5. Shipping,58
+2012-08-01,paid_nonbrand,mobile,6,6. Billing,40
+2012-08-01,paid_nonbrand,mobile,7,7. Order,9
+2012-09-01,direct_type_in,desktop,1,1. Landing page,164
+2012-09-01,direct_type_in,desktop,2,2. Products,112
+2012-09-01,direct_type_in,desktop,3,3. Product page,83
+2012-09-01,direct_type_in,desktop,4,4. Cart,40
+2012-09-01,direct_type_in,desktop,5,5. Shipping,29
+2012-09-01,direct_type_in,desktop,6,6. Billing,19
+2012-09-01,direct_type_in,desktop,7,7. Order,9
+2012-09-01,direct_type_in,mobile,1,1. Landing page,121
+2012-09-01,direct_type_in,mobile,2,2. Products,60
+2012-09-01,direct_type_in,mobile,3,3. Product page,38
+2012-09-01,direct_type_in,mobile,4,4. Cart,17
+2012-09-01,direct_type_in,mobile,5,5. Shipping,8
+2012-09-01,direct_type_in,mobile,6,6. Billing,5
+2012-09-01,direct_type_in,mobile,7,7. Order,3
+2012-09-01,organic_search,desktop,1,1. Landing page,221
+2012-09-01,organic_search,desktop,2,2. Products,138
+2012-09-01,organic_search,desktop,3,3. Product page,98
+2012-09-01,organic_search,desktop,4,4. Cart,46
+2012-09-01,organic_search,desktop,5,5. Shipping,29
+2012-09-01,organic_search,desktop,6,6. Billing,21
+2012-09-01,organic_search,desktop,7,7. Order,11
+2012-09-01,organic_search,mobile,1,1. Landing page,110
+2012-09-01,organic_search,mobile,2,2. Products,58
+2012-09-01,organic_search,mobile,3,3. Product page,34
+2012-09-01,organic_search,mobile,4,4. Cart,9
+2012-09-01,organic_search,mobile,5,5. Shipping,5
+2012-09-01,organic_search,mobile,6,6. Billing,2
+2012-09-01,organic_search,mobile,7,7. Order,2
+2012-09-01,paid_brand,desktop,1,1. Landing page,217
+2012-09-01,paid_brand,desktop,2,2. Products,137
+2012-09-01,paid_brand,desktop,3,3. Product page,109
+2012-09-01,paid_brand,desktop,4,4. Cart,46
+2012-09-01,paid_brand,desktop,5,5. Shipping,34
+2012-09-01,paid_brand,desktop,6,6. Billing,33
+2012-09-01,paid_brand,desktop,7,7. Order,22
+2012-09-01,paid_brand,mobile,1,1. Landing page,122
+2012-09-01,paid_brand,mobile,2,2. Products,47
+2012-09-01,paid_brand,mobile,3,3. Product page,32
+2012-09-01,paid_brand,mobile,4,4. Cart,15
+2012-09-01,paid_brand,mobile,5,5. Shipping,5
+2012-09-01,paid_brand,mobile,6,6. Billing,2
+2012-09-01,paid_brand,mobile,7,7. Order,2
+2012-09-01,paid_nonbrand,desktop,1,1. Landing page,4393
+2012-09-01,paid_nonbrand,desktop,2,2. Products,2169
+2012-09-01,paid_nonbrand,desktop,3,3. Product page,1613
+2012-09-01,paid_nonbrand,desktop,4,4. Cart,710
+2012-09-01,paid_nonbrand,desktop,5,5. Shipping,496
+2012-09-01,paid_nonbrand,desktop,6,6. Billing,408
+2012-09-01,paid_nonbrand,desktop,7,7. Order,219
+2012-09-01,paid_nonbrand,mobile,1,1. Landing page,1198
+2012-09-01,paid_nonbrand,mobile,2,2. Products,405
+2012-09-01,paid_nonbrand,mobile,3,3. Product page,251
+2012-09-01,paid_nonbrand,mobile,4,4. Cart,102
+2012-09-01,paid_nonbrand,mobile,5,5. Shipping,68
+2012-09-01,paid_nonbrand,mobile,6,6. Billing,49
+2012-09-01,paid_nonbrand,mobile,7,7. Order,19
+2012-10-01,direct_type_in,desktop,1,1. Landing page,258
+2012-10-01,direct_type_in,desktop,2,2. Products,173
+2012-10-01,direct_type_in,desktop,3,3. Product page,143
+2012-10-01,direct_type_in,desktop,4,4. Cart,58
+2012-10-01,direct_type_in,desktop,5,5. Shipping,39
+2012-10-01,direct_type_in,desktop,6,6. Billing,35
+2012-10-01,direct_type_in,desktop,7,7. Order,16
+2012-10-01,direct_type_in,mobile,1,1. Landing page,182
+2012-10-01,direct_type_in,mobile,2,2. Products,86
+2012-10-01,direct_type_in,mobile,3,3. Product page,54
+2012-10-01,direct_type_in,mobile,4,4. Cart,24
+2012-10-01,direct_type_in,mobile,5,5. Shipping,19
+2012-10-01,direct_type_in,mobile,6,6. Billing,16
+2012-10-01,direct_type_in,mobile,7,7. Order,10
+2012-10-01,organic_search,desktop,1,1. Landing page,286
+2012-10-01,organic_search,desktop,2,2. Products,196
+2012-10-01,organic_search,desktop,3,3. Product page,150
+2012-10-01,organic_search,desktop,4,4. Cart,77
+2012-10-01,organic_search,desktop,5,5. Shipping,53
+2012-10-01,organic_search,desktop,6,6. Billing,43
+2012-10-01,organic_search,desktop,7,7. Order,20
+2012-10-01,organic_search,mobile,1,1. Landing page,142
+2012-10-01,organic_search,mobile,2,2. Products,71
+2012-10-01,organic_search,mobile,3,3. Product page,45
+2012-10-01,organic_search,mobile,4,4. Cart,19
+2012-10-01,organic_search,mobile,5,5. Shipping,13
+2012-10-01,organic_search,mobile,6,6. Billing,8
+2012-10-01,organic_search,mobile,7,7. Order,2
+2012-10-01,paid_brand,desktop,1,1. Landing page,297
+2012-10-01,paid_brand,desktop,2,2. Products,208
+2012-10-01,paid_brand,desktop,3,3. Product page,157
+2012-10-01,paid_brand,desktop,4,4. Cart,63
+2012-10-01,paid_brand,desktop,5,5. Shipping,37
+2012-10-01,paid_brand,desktop,6,6. Billing,27
+2012-10-01,paid_brand,desktop,7,7. Order,16
+2012-10-01,paid_brand,mobile,1,1. Landing page,135
+2012-10-01,paid_brand,mobile,2,2. Products,74
+2012-10-01,paid_brand,mobile,3,3. Product page,40
+2012-10-01,paid_brand,mobile,4,4. Cart,18
+2012-10-01,paid_brand,mobile,5,5. Shipping,11
+2012-10-01,paid_brand,mobile,6,6. Billing,9
+2012-10-01,paid_brand,mobile,7,7. Order,3
+2012-10-01,paid_nonbrand,desktop,1,1. Landing page,5478
+2012-10-01,paid_nonbrand,desktop,2,2. Products,2717
+2012-10-01,paid_nonbrand,desktop,3,3. Product page,2054
+2012-10-01,paid_nonbrand,desktop,4,4. Cart,872
+2012-10-01,paid_nonbrand,desktop,5,5. Shipping,599
+2012-10-01,paid_nonbrand,desktop,6,6. Billing,486
+2012-10-01,paid_nonbrand,desktop,7,7. Order,285
+2012-10-01,paid_nonbrand,mobile,1,1. Landing page,1405
+2012-10-01,paid_nonbrand,mobile,2,2. Products,505
+2012-10-01,paid_nonbrand,mobile,3,3. Product page,305
+2012-10-01,paid_nonbrand,mobile,4,4. Cart,127
+2012-10-01,paid_nonbrand,mobile,5,5. Shipping,83
+2012-10-01,paid_nonbrand,mobile,6,6. Billing,63
+2012-10-01,paid_nonbrand,mobile,7,7. Order,19
+2012-11-01,direct_type_in,desktop,1,1. Landing page,319
+2012-11-01,direct_type_in,desktop,2,2. Products,205
+2012-11-01,direct_type_in,desktop,3,3. Product page,149
+2012-11-01,direct_type_in,desktop,4,4. Cart,61
+2012-11-01,direct_type_in,desktop,5,5. Shipping,42
+2012-11-01,direct_type_in,desktop,6,6. Billing,37
+2012-11-01,direct_type_in,desktop,7,7. Order,20
+2012-11-01,direct_type_in,mobile,1,1. Landing page,252
+2012-11-01,direct_type_in,mobile,2,2. Products,113
+2012-11-01,direct_type_in,mobile,3,3. Product page,71
+2012-11-01,direct_type_in,mobile,4,4. Cart,28
+2012-11-01,direct_type_in,mobile,5,5. Shipping,14
+2012-11-01,direct_type_in,mobile,6,6. Billing,9
+2012-11-01,direct_type_in,mobile,7,7. Order,5
+2012-11-01,organic_search,desktop,1,1. Landing page,403
+2012-11-01,organic_search,desktop,2,2. Products,273
+2012-11-01,organic_search,desktop,3,3. Product page,198
+2012-11-01,organic_search,desktop,4,4. Cart,85
+2012-11-01,organic_search,desktop,5,5. Shipping,55
+2012-11-01,organic_search,desktop,6,6. Billing,49
+2012-11-01,organic_search,desktop,7,7. Order,25
+2012-11-01,organic_search,mobile,1,1. Landing page,221
+2012-11-01,organic_search,mobile,2,2. Products,104
+2012-11-01,organic_search,mobile,3,3. Product page,56
+2012-11-01,organic_search,mobile,4,4. Cart,12
+2012-11-01,organic_search,mobile,5,5. Shipping,7
+2012-11-01,organic_search,mobile,6,6. Billing,6
+2012-11-01,organic_search,mobile,7,7. Order,1
+2012-11-01,paid_brand,desktop,1,1. Landing page,360
+2012-11-01,paid_brand,desktop,2,2. Products,236
+2012-11-01,paid_brand,desktop,3,3. Product page,187
+2012-11-01,paid_brand,desktop,4,4. Cart,73
+2012-11-01,paid_brand,desktop,5,5. Shipping,54
+2012-11-01,paid_brand,desktop,6,6. Billing,44
+2012-11-01,paid_brand,desktop,7,7. Order,21
+2012-11-01,paid_brand,mobile,1,1. Landing page,196
+2012-11-01,paid_brand,mobile,2,2. Products,89
+2012-11-01,paid_brand,mobile,3,3. Product page,47
+2012-11-01,paid_brand,mobile,4,4. Cart,17
+2012-11-01,paid_brand,mobile,5,5. Shipping,13
+2012-11-01,paid_brand,mobile,6,6. Billing,10
+2012-11-01,paid_brand,mobile,7,7. Order,5
+2012-11-01,paid_nonbrand,desktop,1,1. Landing page,9789
+2012-11-01,paid_nonbrand,desktop,2,2. Products,4900
+2012-11-01,paid_nonbrand,desktop,3,3. Product page,3652
+2012-11-01,paid_nonbrand,desktop,4,4. Cart,1606
+2012-11-01,paid_nonbrand,desktop,5,5. Shipping,1132
+2012-11-01,paid_nonbrand,desktop,6,6. Billing,930
+2012-11-01,paid_nonbrand,desktop,7,7. Order,497
+2012-11-01,paid_nonbrand,mobile,1,1. Landing page,2471
+2012-11-01,paid_nonbrand,mobile,2,2. Products,824
+2012-11-01,paid_nonbrand,mobile,3,3. Product page,490
+2012-11-01,paid_nonbrand,mobile,4,4. Cart,208
+2012-11-01,paid_nonbrand,mobile,5,5. Shipping,133
+2012-11-01,paid_nonbrand,mobile,6,6. Billing,94
+2012-11-01,paid_nonbrand,mobile,7,7. Order,44
+2012-12-01,direct_type_in,desktop,1,1. Landing page,374
+2012-12-01,direct_type_in,desktop,2,2. Products,252
+2012-12-01,direct_type_in,desktop,3,3. Product page,183
+2012-12-01,direct_type_in,desktop,4,4. Cart,93
+2012-12-01,direct_type_in,desktop,5,5. Shipping,62
+2012-12-01,direct_type_in,desktop,6,6. Billing,51
+2012-12-01,direct_type_in,desktop,7,7. Order,31
+2012-12-01,direct_type_in,mobile,1,1. Landing page,272
+2012-12-01,direct_type_in,mobile,2,2. Products,123
+2012-12-01,direct_type_in,mobile,3,3. Product page,64
+2012-12-01,direct_type_in,mobile,4,4. Cart,26
+2012-12-01,direct_type_in,mobile,5,5. Shipping,17
+2012-12-01,direct_type_in,mobile,6,6. Billing,14
+2012-12-01,direct_type_in,mobile,7,7. Order,7
+2012-12-01,organic_search,desktop,1,1. Landing page,477
+2012-12-01,organic_search,desktop,2,2. Products,344
+2012-12-01,organic_search,desktop,3,3. Product page,242
+2012-12-01,organic_search,desktop,4,4. Cart,127
+2012-12-01,organic_search,desktop,5,5. Shipping,90
+2012-12-01,organic_search,desktop,6,6. Billing,76
+2012-12-01,organic_search,desktop,7,7. Order,38
+2012-12-01,organic_search,mobile,1,1. Landing page,215
+2012-12-01,organic_search,mobile,2,2. Products,115
+2012-12-01,organic_search,mobile,3,3. Product page,72
+2012-12-01,organic_search,mobile,4,4. Cart,30
+2012-12-01,organic_search,mobile,5,5. Shipping,17
+2012-12-01,organic_search,mobile,6,6. Billing,14
+2012-12-01,organic_search,mobile,7,7. Order,8
+2012-12-01,paid_brand,desktop,1,1. Landing page,435
+2012-12-01,paid_brand,desktop,2,2. Products,299
+2012-12-01,paid_brand,desktop,3,3. Product page,232
+2012-12-01,paid_brand,desktop,4,4. Cart,104
+2012-12-01,paid_brand,desktop,5,5. Shipping,78
+2012-12-01,paid_brand,desktop,6,6. Billing,62
+2012-12-01,paid_brand,desktop,7,7. Order,37
+2012-12-01,paid_brand,mobile,1,1. Landing page,233
+2012-12-01,paid_brand,mobile,2,2. Products,117
+2012-12-01,paid_brand,mobile,3,3. Product page,67
+2012-12-01,paid_brand,mobile,4,4. Cart,29
+2012-12-01,paid_brand,mobile,5,5. Shipping,20
+2012-12-01,paid_brand,mobile,6,6. Billing,15
+2012-12-01,paid_brand,mobile,7,7. Order,6
+2012-12-01,paid_nonbrand,desktop,1,1. Landing page,6359
+2012-12-01,paid_nonbrand,desktop,2,2. Products,3209
+2012-12-01,paid_nonbrand,desktop,3,3. Product page,2425
+2012-12-01,paid_nonbrand,desktop,4,4. Cart,1063
+2012-12-01,paid_nonbrand,desktop,5,5. Shipping,757
+2012-12-01,paid_nonbrand,desktop,6,6. Billing,651
+2012-12-01,paid_nonbrand,desktop,7,7. Order,360
+2012-12-01,paid_nonbrand,mobile,1,1. Landing page,1707
+2012-12-01,paid_nonbrand,mobile,2,2. Products,553
+2012-12-01,paid_nonbrand,mobile,3,3. Product page,334
+2012-12-01,paid_nonbrand,mobile,4,4. Cart,132
+2012-12-01,paid_nonbrand,mobile,5,5. Shipping,80
+2012-12-01,paid_nonbrand,mobile,6,6. Billing,58
+2012-12-01,paid_nonbrand,mobile,7,7. Order,19
+2013-01-01,direct_type_in,desktop,1,1. Landing page,350
+2013-01-01,direct_type_in,desktop,2,2. Products,235
+2013-01-01,direct_type_in,desktop,3,3. Product page,191
+2013-01-01,direct_type_in,desktop,4,4. Cart,82
+2013-01-01,direct_type_in,desktop,5,5. Shipping,57
+2013-01-01,direct_type_in,desktop,6,6. Billing,49
+2013-01-01,direct_type_in,desktop,7,7. Order,30
+2013-01-01,direct_type_in,mobile,1,1. Landing page,257
+2013-01-01,direct_type_in,mobile,2,2. Products,113
+2013-01-01,direct_type_in,mobile,3,3. Product page,71
+2013-01-01,direct_type_in,mobile,4,4. Cart,31
+2013-01-01,direct_type_in,mobile,5,5. Shipping,20
+2013-01-01,direct_type_in,mobile,6,6. Billing,13
+2013-01-01,direct_type_in,mobile,7,7. Order,6
+2013-01-01,organic_search,desktop,1,1. Landing page,435
+2013-01-01,organic_search,desktop,2,2. Products,312
+2013-01-01,organic_search,desktop,3,3. Product page,250
+2013-01-01,organic_search,desktop,4,4. Cart,105
+2013-01-01,organic_search,desktop,5,5. Shipping,73
+2013-01-01,organic_search,desktop,6,6. Billing,58
+2013-01-01,organic_search,desktop,7,7. Order,40
+2013-01-01,organic_search,mobile,1,1. Landing page,227
+2013-01-01,organic_search,mobile,2,2. Products,120
+2013-01-01,organic_search,mobile,3,3. Product page,76
+2013-01-01,organic_search,mobile,4,4. Cart,38
+2013-01-01,organic_search,mobile,5,5. Shipping,23
+2013-01-01,organic_search,mobile,6,6. Billing,17
+2013-01-01,organic_search,mobile,7,7. Order,8
+2013-01-01,paid_brand,desktop,1,1. Landing page,405
+2013-01-01,paid_brand,desktop,2,2. Products,271
+2013-01-01,paid_brand,desktop,3,3. Product page,220
+2013-01-01,paid_brand,desktop,4,4. Cart,98
+2013-01-01,paid_brand,desktop,5,5. Shipping,67
+2013-01-01,paid_brand,desktop,6,6. Billing,52
+2013-01-01,paid_brand,desktop,7,7. Order,34
+2013-01-01,paid_brand,mobile,1,1. Landing page,225
+2013-01-01,paid_brand,mobile,2,2. Products,119
+2013-01-01,paid_brand,mobile,3,3. Product page,73
+2013-01-01,paid_brand,mobile,4,4. Cart,40
+2013-01-01,paid_brand,mobile,5,5. Shipping,25
+2013-01-01,paid_brand,mobile,6,6. Billing,16
+2013-01-01,paid_brand,mobile,7,7. Order,7
+2013-01-01,paid_nonbrand,desktop,1,1. Landing page,3527
+2013-01-01,paid_nonbrand,desktop,2,2. Products,1876
+2013-01-01,paid_nonbrand,desktop,3,3. Product page,1486
+2013-01-01,paid_nonbrand,desktop,4,4. Cart,664
+2013-01-01,paid_nonbrand,desktop,5,5. Shipping,466
+2013-01-01,paid_nonbrand,desktop,6,6. Billing,383
+2013-01-01,paid_nonbrand,desktop,7,7. Order,241
+2013-01-01,paid_nonbrand,mobile,1,1. Landing page,975
+2013-01-01,paid_nonbrand,mobile,2,2. Products,334
+2013-01-01,paid_nonbrand,mobile,3,3. Product page,228
+2013-01-01,paid_nonbrand,mobile,4,4. Cart,90
+2013-01-01,paid_nonbrand,mobile,5,5. Shipping,51
+2013-01-01,paid_nonbrand,mobile,6,6. Billing,39
+2013-01-01,paid_nonbrand,mobile,7,7. Order,25
+2013-02-01,direct_type_in,desktop,1,1. Landing page,282
+2013-02-01,direct_type_in,desktop,2,2. Products,186
+2013-02-01,direct_type_in,desktop,3,3. Product page,151
+2013-02-01,direct_type_in,desktop,4,4. Cart,77
+2013-02-01,direct_type_in,desktop,5,5. Shipping,56
+2013-02-01,direct_type_in,desktop,6,6. Billing,44
+2013-02-01,direct_type_in,desktop,7,7. Order,26
+2013-02-01,direct_type_in,mobile,1,1. Landing page,188
+2013-02-01,direct_type_in,mobile,2,2. Products,86
+2013-02-01,direct_type_in,mobile,3,3. Product page,53
+2013-02-01,direct_type_in,mobile,4,4. Cart,25
+2013-02-01,direct_type_in,mobile,5,5. Shipping,17
+2013-02-01,direct_type_in,mobile,6,6. Billing,13
+2013-02-01,direct_type_in,mobile,7,7. Order,11
+2013-02-01,organic_search,desktop,1,1. Landing page,331
+2013-02-01,organic_search,desktop,2,2. Products,225
+2013-02-01,organic_search,desktop,3,3. Product page,175
+2013-02-01,organic_search,desktop,4,4. Cart,83
+2013-02-01,organic_search,desktop,5,5. Shipping,58
+2013-02-01,organic_search,desktop,6,6. Billing,46
+2013-02-01,organic_search,desktop,7,7. Order,35
+2013-02-01,organic_search,mobile,1,1. Landing page,197
+2013-02-01,organic_search,mobile,2,2. Products,100
+2013-02-01,organic_search,mobile,3,3. Product page,58
+2013-02-01,organic_search,mobile,4,4. Cart,27
+2013-02-01,organic_search,mobile,5,5. Shipping,18
+2013-02-01,organic_search,mobile,6,6. Billing,16
+2013-02-01,organic_search,mobile,7,7. Order,8
+2013-02-01,paid_brand,desktop,1,1. Landing page,307
+2013-02-01,paid_brand,desktop,2,2. Products,192
+2013-02-01,paid_brand,desktop,3,3. Product page,148
+2013-02-01,paid_brand,desktop,4,4. Cart,83
+2013-02-01,paid_brand,desktop,5,5. Shipping,62
+2013-02-01,paid_brand,desktop,6,6. Billing,50
+2013-02-01,paid_brand,desktop,7,7. Order,41
+2013-02-01,paid_brand,mobile,1,1. Landing page,161
+2013-02-01,paid_brand,mobile,2,2. Products,76
+2013-02-01,paid_brand,mobile,3,3. Product page,53
+2013-02-01,paid_brand,mobile,4,4. Cart,18
+2013-02-01,paid_brand,mobile,5,5. Shipping,12
+2013-02-01,paid_brand,mobile,6,6. Billing,9
+2013-02-01,paid_brand,mobile,7,7. Order,5
+2013-02-01,paid_nonbrand,desktop,1,1. Landing page,4459
+2013-02-01,paid_nonbrand,desktop,2,2. Products,2346
+2013-02-01,paid_nonbrand,desktop,3,3. Product page,1846
+2013-02-01,paid_nonbrand,desktop,4,4. Cart,899
+2013-02-01,paid_nonbrand,desktop,5,5. Shipping,644
+2013-02-01,paid_nonbrand,desktop,6,6. Billing,540
+2013-02-01,paid_nonbrand,desktop,7,7. Order,337
+2013-02-01,paid_nonbrand,mobile,1,1. Landing page,1243
+2013-02-01,paid_nonbrand,mobile,2,2. Products,474
+2013-02-01,paid_nonbrand,mobile,3,3. Product page,319
+2013-02-01,paid_nonbrand,mobile,4,4. Cart,138
+2013-02-01,paid_nonbrand,mobile,5,5. Shipping,88
+2013-02-01,paid_nonbrand,mobile,6,6. Billing,65
+2013-02-01,paid_nonbrand,mobile,7,7. Order,34
+2013-03-01,direct_type_in,desktop,1,1. Landing page,235
+2013-03-01,direct_type_in,desktop,2,2. Products,179
+2013-03-01,direct_type_in,desktop,3,3. Product page,133
+2013-03-01,direct_type_in,desktop,4,4. Cart,50
+2013-03-01,direct_type_in,desktop,5,5. Shipping,33
+2013-03-01,direct_type_in,desktop,6,6. Billing,28
+2013-03-01,direct_type_in,desktop,7,7. Order,17
+2013-03-01,direct_type_in,mobile,1,1. Landing page,170
+2013-03-01,direct_type_in,mobile,2,2. Products,84
+2013-03-01,direct_type_in,mobile,3,3. Product page,49
+2013-03-01,direct_type_in,mobile,4,4. Cart,20
+2013-03-01,direct_type_in,mobile,5,5. Shipping,11
+2013-03-01,direct_type_in,mobile,6,6. Billing,7
+2013-03-01,direct_type_in,mobile,7,7. Order,1
+2013-03-01,organic_search,desktop,1,1. Landing page,319
+2013-03-01,organic_search,desktop,2,2. Products,222
+2013-03-01,organic_search,desktop,3,3. Product page,180
+2013-03-01,organic_search,desktop,4,4. Cart,85
+2013-03-01,organic_search,desktop,5,5. Shipping,64
+2013-03-01,organic_search,desktop,6,6. Billing,55
+2013-03-01,organic_search,desktop,7,7. Order,30
+2013-03-01,organic_search,mobile,1,1. Landing page,152
+2013-03-01,organic_search,mobile,2,2. Products,74
+2013-03-01,organic_search,mobile,3,3. Product page,46
+2013-03-01,organic_search,mobile,4,4. Cart,17
+2013-03-01,organic_search,mobile,5,5. Shipping,8
+2013-03-01,organic_search,mobile,6,6. Billing,6
+2013-03-01,organic_search,mobile,7,7. Order,4
+2013-03-01,paid_brand,desktop,1,1. Landing page,276
+2013-03-01,paid_brand,desktop,2,2. Products,183
+2013-03-01,paid_brand,desktop,3,3. Product page,144
+2013-03-01,paid_brand,desktop,4,4. Cart,63
+2013-03-01,paid_brand,desktop,5,5. Shipping,44
+2013-03-01,paid_brand,desktop,6,6. Billing,37
+2013-03-01,paid_brand,desktop,7,7. Order,19
+2013-03-01,paid_brand,mobile,1,1. Landing page,162
+2013-03-01,paid_brand,mobile,2,2. Products,72
+2013-03-01,paid_brand,mobile,3,3. Product page,49
+2013-03-01,paid_brand,mobile,4,4. Cart,17
+2013-03-01,paid_brand,mobile,5,5. Shipping,10
+2013-03-01,paid_brand,mobile,6,6. Billing,5
+2013-03-01,paid_brand,mobile,7,7. Order,2
+2013-03-01,paid_nonbrand,desktop,1,1. Landing page,3858
+2013-03-01,paid_nonbrand,desktop,2,2. Products,2131
+2013-03-01,paid_nonbrand,desktop,3,3. Product page,1714
+2013-03-01,paid_nonbrand,desktop,4,4. Cart,758
+2013-03-01,paid_nonbrand,desktop,5,5. Shipping,524
+2013-03-01,paid_nonbrand,desktop,6,6. Billing,440
+2013-03-01,paid_nonbrand,desktop,7,7. Order,282
+2013-03-01,paid_nonbrand,mobile,1,1. Landing page,1092
+2013-03-01,paid_nonbrand,mobile,2,2. Products,427
+2013-03-01,paid_nonbrand,mobile,3,3. Product page,262
+2013-03-01,paid_nonbrand,mobile,4,4. Cart,107
+2013-03-01,paid_nonbrand,mobile,5,5. Shipping,63
+2013-03-01,paid_nonbrand,mobile,6,6. Billing,46
+2013-03-01,paid_nonbrand,mobile,7,7. Order,30
+2013-04-01,direct_type_in,desktop,1,1. Landing page,280
+2013-04-01,direct_type_in,desktop,2,2. Products,191
+2013-04-01,direct_type_in,desktop,3,3. Product page,148
+2013-04-01,direct_type_in,desktop,4,4. Cart,72
+2013-04-01,direct_type_in,desktop,5,5. Shipping,54
+2013-04-01,direct_type_in,desktop,6,6. Billing,47
+2013-04-01,direct_type_in,desktop,7,7. Order,27
+2013-04-01,direct_type_in,mobile,1,1. Landing page,203
+2013-04-01,direct_type_in,mobile,2,2. Products,96
+2013-04-01,direct_type_in,mobile,3,3. Product page,65
+2013-04-01,direct_type_in,mobile,4,4. Cart,28
+2013-04-01,direct_type_in,mobile,5,5. Shipping,18
+2013-04-01,direct_type_in,mobile,6,6. Billing,13
+2013-04-01,direct_type_in,mobile,7,7. Order,6
+2013-04-01,organic_search,desktop,1,1. Landing page,327
+2013-04-01,organic_search,desktop,2,2. Products,215
+2013-04-01,organic_search,desktop,3,3. Product page,169
+2013-04-01,organic_search,desktop,4,4. Cart,82
+2013-04-01,organic_search,desktop,5,5. Shipping,61
+2013-04-01,organic_search,desktop,6,6. Billing,52
+2013-04-01,organic_search,desktop,7,7. Order,37
+2013-04-01,organic_search,mobile,1,1. Landing page,185
+2013-04-01,organic_search,mobile,2,2. Products,83
+2013-04-01,organic_search,mobile,3,3. Product page,51
+2013-04-01,organic_search,mobile,4,4. Cart,19
+2013-04-01,organic_search,mobile,5,5. Shipping,14
+2013-04-01,organic_search,mobile,6,6. Billing,9
+2013-04-01,organic_search,mobile,7,7. Order,4
+2013-04-01,paid_brand,desktop,1,1. Landing page,332
+2013-04-01,paid_brand,desktop,2,2. Products,234
+2013-04-01,paid_brand,desktop,3,3. Product page,190
+2013-04-01,paid_brand,desktop,4,4. Cart,80
+2013-04-01,paid_brand,desktop,5,5. Shipping,60
+2013-04-01,paid_brand,desktop,6,6. Billing,51
+2013-04-01,paid_brand,desktop,7,7. Order,32
+2013-04-01,paid_brand,mobile,1,1. Landing page,164
+2013-04-01,paid_brand,mobile,2,2. Products,71
+2013-04-01,paid_brand,mobile,3,3. Product page,46
+2013-04-01,paid_brand,mobile,4,4. Cart,22
+2013-04-01,paid_brand,mobile,5,5. Shipping,13
+2013-04-01,paid_brand,mobile,6,6. Billing,8
+2013-04-01,paid_brand,mobile,7,7. Order,4
+2013-04-01,paid_nonbrand,desktop,1,1. Landing page,5083
+2013-04-01,paid_nonbrand,desktop,2,2. Products,2898
+2013-04-01,paid_nonbrand,desktop,3,3. Product page,2332
+2013-04-01,paid_nonbrand,desktop,4,4. Cart,1076
+2013-04-01,paid_nonbrand,desktop,5,5. Shipping,763
+2013-04-01,paid_nonbrand,desktop,6,6. Billing,642
+2013-04-01,paid_nonbrand,desktop,7,7. Order,406
+2013-04-01,paid_nonbrand,mobile,1,1. Landing page,1397
+2013-04-01,paid_nonbrand,mobile,2,2. Products,574
+2013-04-01,paid_nonbrand,mobile,3,3. Product page,355
+2013-04-01,paid_nonbrand,mobile,4,4. Cart,149
+2013-04-01,paid_nonbrand,mobile,5,5. Shipping,88
+2013-04-01,paid_nonbrand,mobile,6,6. Billing,66
+2013-04-01,paid_nonbrand,mobile,7,7. Order,37
+2013-05-01,direct_type_in,desktop,1,1. Landing page,338
+2013-05-01,direct_type_in,desktop,2,2. Products,237
+2013-05-01,direct_type_in,desktop,3,3. Product page,190
+2013-05-01,direct_type_in,desktop,4,4. Cart,88
+2013-05-01,direct_type_in,desktop,5,5. Shipping,66
+2013-05-01,direct_type_in,desktop,6,6. Billing,56
+2013-05-01,direct_type_in,desktop,7,7. Order,36
+2013-05-01,direct_type_in,mobile,1,1. Landing page,226
+2013-05-01,direct_type_in,mobile,2,2. Products,106
+2013-05-01,direct_type_in,mobile,3,3. Product page,65
+2013-05-01,direct_type_in,mobile,4,4. Cart,25
+2013-05-01,direct_type_in,mobile,5,5. Shipping,14
+2013-05-01,direct_type_in,mobile,6,6. Billing,11
+2013-05-01,direct_type_in,mobile,7,7. Order,8
+2013-05-01,organic_search,desktop,1,1. Landing page,438
+2013-05-01,organic_search,desktop,2,2. Products,308
+2013-05-01,organic_search,desktop,3,3. Product page,237
+2013-05-01,organic_search,desktop,4,4. Cart,107
+2013-05-01,organic_search,desktop,5,5. Shipping,83
+2013-05-01,organic_search,desktop,6,6. Billing,70
+2013-05-01,organic_search,desktop,7,7. Order,47
+2013-05-01,organic_search,mobile,1,1. Landing page,188
+2013-05-01,organic_search,mobile,2,2. Products,88
+2013-05-01,organic_search,mobile,3,3. Product page,62
+2013-05-01,organic_search,mobile,4,4. Cart,23
+2013-05-01,organic_search,mobile,5,5. Shipping,12
+2013-05-01,organic_search,mobile,6,6. Billing,8
+2013-05-01,organic_search,mobile,7,7. Order,4
+2013-05-01,paid_brand,desktop,1,1. Landing page,394
+2013-05-01,paid_brand,desktop,2,2. Products,259
+2013-05-01,paid_brand,desktop,3,3. Product page,204
+2013-05-01,paid_brand,desktop,4,4. Cart,79
+2013-05-01,paid_brand,desktop,5,5. Shipping,51
+2013-05-01,paid_brand,desktop,6,6. Billing,41
+2013-05-01,paid_brand,desktop,7,7. Order,29
+2013-05-01,paid_brand,mobile,1,1. Landing page,211
+2013-05-01,paid_brand,mobile,2,2. Products,89
+2013-05-01,paid_brand,mobile,3,3. Product page,62
+2013-05-01,paid_brand,mobile,4,4. Cart,26
+2013-05-01,paid_brand,mobile,5,5. Shipping,11
+2013-05-01,paid_brand,mobile,6,6. Billing,7
+2013-05-01,paid_brand,mobile,7,7. Order,4
+2013-05-01,paid_nonbrand,desktop,1,1. Landing page,5306
+2013-05-01,paid_nonbrand,desktop,2,2. Products,3036
+2013-05-01,paid_nonbrand,desktop,3,3. Product page,2422
+2013-05-01,paid_nonbrand,desktop,4,4. Cart,1106
+2013-05-01,paid_nonbrand,desktop,5,5. Shipping,748
+2013-05-01,paid_nonbrand,desktop,6,6. Billing,619
+2013-05-01,paid_nonbrand,desktop,7,7. Order,396
+2013-05-01,paid_nonbrand,mobile,1,1. Landing page,1348
+2013-05-01,paid_nonbrand,mobile,2,2. Products,560
+2013-05-01,paid_nonbrand,mobile,3,3. Product page,366
+2013-05-01,paid_nonbrand,mobile,4,4. Cart,154
+2013-05-01,paid_nonbrand,mobile,5,5. Shipping,102
+2013-05-01,paid_nonbrand,mobile,6,6. Billing,79
+2013-05-01,paid_nonbrand,mobile,7,7. Order,47
+2013-06-01,direct_type_in,desktop,1,1. Landing page,342
+2013-06-01,direct_type_in,desktop,2,2. Products,215
+2013-06-01,direct_type_in,desktop,3,3. Product page,180
+2013-06-01,direct_type_in,desktop,4,4. Cart,87
+2013-06-01,direct_type_in,desktop,5,5. Shipping,57
+2013-06-01,direct_type_in,desktop,6,6. Billing,50
+2013-06-01,direct_type_in,desktop,7,7. Order,36
+2013-06-01,direct_type_in,mobile,1,1. Landing page,229
+2013-06-01,direct_type_in,mobile,2,2. Products,124
+2013-06-01,direct_type_in,mobile,3,3. Product page,73
+2013-06-01,direct_type_in,mobile,4,4. Cart,33
+2013-06-01,direct_type_in,mobile,5,5. Shipping,21
+2013-06-01,direct_type_in,mobile,6,6. Billing,14
+2013-06-01,direct_type_in,mobile,7,7. Order,6
+2013-06-01,organic_search,desktop,1,1. Landing page,399
+2013-06-01,organic_search,desktop,2,2. Products,269
+2013-06-01,organic_search,desktop,3,3. Product page,216
+2013-06-01,organic_search,desktop,4,4. Cart,111
+2013-06-01,organic_search,desktop,5,5. Shipping,74
+2013-06-01,organic_search,desktop,6,6. Billing,63
+2013-06-01,organic_search,desktop,7,7. Order,40
+2013-06-01,organic_search,mobile,1,1. Landing page,226
+2013-06-01,organic_search,mobile,2,2. Products,103
+2013-06-01,organic_search,mobile,3,3. Product page,63
+2013-06-01,organic_search,mobile,4,4. Cart,21
+2013-06-01,organic_search,mobile,5,5. Shipping,9
+2013-06-01,organic_search,mobile,6,6. Billing,6
+2013-06-01,organic_search,mobile,7,7. Order,2
+2013-06-01,paid_brand,desktop,1,1. Landing page,388
+2013-06-01,paid_brand,desktop,2,2. Products,249
+2013-06-01,paid_brand,desktop,3,3. Product page,190
+2013-06-01,paid_brand,desktop,4,4. Cart,91
+2013-06-01,paid_brand,desktop,5,5. Shipping,69
+2013-06-01,paid_brand,desktop,6,6. Billing,57
+2013-06-01,paid_brand,desktop,7,7. Order,40
+2013-06-01,paid_brand,mobile,1,1. Landing page,191
+2013-06-01,paid_brand,mobile,2,2. Products,96
+2013-06-01,paid_brand,mobile,3,3. Product page,55
+2013-06-01,paid_brand,mobile,4,4. Cart,29
+2013-06-01,paid_brand,mobile,5,5. Shipping,16
+2013-06-01,paid_brand,mobile,6,6. Billing,10
+2013-06-01,paid_brand,mobile,7,7. Order,5
+2013-06-01,paid_nonbrand,desktop,1,1. Landing page,5142
+2013-06-01,paid_nonbrand,desktop,2,2. Products,2965
+2013-06-01,paid_nonbrand,desktop,3,3. Product page,2385
+2013-06-01,paid_nonbrand,desktop,4,4. Cart,1095
+2013-06-01,paid_nonbrand,desktop,5,5. Shipping,779
+2013-06-01,paid_nonbrand,desktop,6,6. Billing,656
+2013-06-01,paid_nonbrand,desktop,7,7. Order,430
+2013-06-01,paid_nonbrand,mobile,1,1. Landing page,1408
+2013-06-01,paid_nonbrand,mobile,2,2. Products,579
+2013-06-01,paid_nonbrand,mobile,3,3. Product page,374
+2013-06-01,paid_nonbrand,mobile,4,4. Cart,149
+2013-06-01,paid_nonbrand,mobile,5,5. Shipping,87
+2013-06-01,paid_nonbrand,mobile,6,6. Billing,63
+2013-06-01,paid_nonbrand,mobile,7,7. Order,35
+2013-07-01,direct_type_in,desktop,1,1. Landing page,373
+2013-07-01,direct_type_in,desktop,2,2. Products,252
+2013-07-01,direct_type_in,desktop,3,3. Product page,203
+2013-07-01,direct_type_in,desktop,4,4. Cart,90
+2013-07-01,direct_type_in,desktop,5,5. Shipping,62
+2013-07-01,direct_type_in,desktop,6,6. Billing,53
+2013-07-01,direct_type_in,desktop,7,7. Order,38
+2013-07-01,direct_type_in,mobile,1,1. Landing page,267
+2013-07-01,direct_type_in,mobile,2,2. Products,131
+2013-07-01,direct_type_in,mobile,3,3. Product page,89
+2013-07-01,direct_type_in,mobile,4,4. Cart,41
+2013-07-01,direct_type_in,mobile,5,5. Shipping,30
+2013-07-01,direct_type_in,mobile,6,6. Billing,28
+2013-07-01,direct_type_in,mobile,7,7. Order,17
+2013-07-01,organic_search,desktop,1,1. Landing page,477
+2013-07-01,organic_search,desktop,2,2. Products,322
+2013-07-01,organic_search,desktop,3,3. Product page,258
+2013-07-01,organic_search,desktop,4,4. Cart,117
+2013-07-01,organic_search,desktop,5,5. Shipping,83
+2013-07-01,organic_search,desktop,6,6. Billing,65
+2013-07-01,organic_search,desktop,7,7. Order,49
+2013-07-01,organic_search,mobile,1,1. Landing page,251
+2013-07-01,organic_search,mobile,2,2. Products,124
+2013-07-01,organic_search,mobile,3,3. Product page,86
+2013-07-01,organic_search,mobile,4,4. Cart,44
+2013-07-01,organic_search,mobile,5,5. Shipping,21
+2013-07-01,organic_search,mobile,6,6. Billing,17
+2013-07-01,organic_search,mobile,7,7. Order,9
+2013-07-01,paid_brand,desktop,1,1. Landing page,473
+2013-07-01,paid_brand,desktop,2,2. Products,329
+2013-07-01,paid_brand,desktop,3,3. Product page,257
+2013-07-01,paid_brand,desktop,4,4. Cart,114
+2013-07-01,paid_brand,desktop,5,5. Shipping,65
+2013-07-01,paid_brand,desktop,6,6. Billing,56
+2013-07-01,paid_brand,desktop,7,7. Order,36
+2013-07-01,paid_brand,mobile,1,1. Landing page,245
+2013-07-01,paid_brand,mobile,2,2. Products,120
+2013-07-01,paid_brand,mobile,3,3. Product page,79
+2013-07-01,paid_brand,mobile,4,4. Cart,35
+2013-07-01,paid_brand,mobile,5,5. Shipping,20
+2013-07-01,paid_brand,mobile,6,6. Billing,13
+2013-07-01,paid_brand,mobile,7,7. Order,9
+2013-07-01,paid_nonbrand,desktop,1,1. Landing page,5376
+2013-07-01,paid_nonbrand,desktop,2,2. Products,3038
+2013-07-01,paid_nonbrand,desktop,3,3. Product page,2448
+2013-07-01,paid_nonbrand,desktop,4,4. Cart,1111
+2013-07-01,paid_nonbrand,desktop,5,5. Shipping,757
+2013-07-01,paid_nonbrand,desktop,6,6. Billing,625
+2013-07-01,paid_nonbrand,desktop,7,7. Order,396
+2013-07-01,paid_nonbrand,mobile,1,1. Landing page,1441
+2013-07-01,paid_nonbrand,mobile,2,2. Products,704
+2013-07-01,paid_nonbrand,mobile,3,3. Product page,470
+2013-07-01,paid_nonbrand,mobile,4,4. Cart,212
+2013-07-01,paid_nonbrand,mobile,5,5. Shipping,119
+2013-07-01,paid_nonbrand,mobile,6,6. Billing,86
+2013-07-01,paid_nonbrand,mobile,7,7. Order,49
+2013-08-01,direct_type_in,desktop,1,1. Landing page,374
+2013-08-01,direct_type_in,desktop,2,2. Products,258
+2013-08-01,direct_type_in,desktop,3,3. Product page,201
+2013-08-01,direct_type_in,desktop,4,4. Cart,87
+2013-08-01,direct_type_in,desktop,5,5. Shipping,60
+2013-08-01,direct_type_in,desktop,6,6. Billing,52
+2013-08-01,direct_type_in,desktop,7,7. Order,34
+2013-08-01,direct_type_in,mobile,1,1. Landing page,288
+2013-08-01,direct_type_in,mobile,2,2. Products,143
+2013-08-01,direct_type_in,mobile,3,3. Product page,89
+2013-08-01,direct_type_in,mobile,4,4. Cart,47
+2013-08-01,direct_type_in,mobile,5,5. Shipping,26
+2013-08-01,direct_type_in,mobile,6,6. Billing,16
+2013-08-01,direct_type_in,mobile,7,7. Order,6
+2013-08-01,organic_search,desktop,1,1. Landing page,509
+2013-08-01,organic_search,desktop,2,2. Products,339
+2013-08-01,organic_search,desktop,3,3. Product page,260
+2013-08-01,organic_search,desktop,4,4. Cart,120
+2013-08-01,organic_search,desktop,5,5. Shipping,88
+2013-08-01,organic_search,desktop,6,6. Billing,78
+2013-08-01,organic_search,desktop,7,7. Order,47
+2013-08-01,organic_search,mobile,1,1. Landing page,264
+2013-08-01,organic_search,mobile,2,2. Products,123
+2013-08-01,organic_search,mobile,3,3. Product page,83
+2013-08-01,organic_search,mobile,4,4. Cart,32
+2013-08-01,organic_search,mobile,5,5. Shipping,19
+2013-08-01,organic_search,mobile,6,6. Billing,12
+2013-08-01,organic_search,mobile,7,7. Order,6
+2013-08-01,paid_brand,desktop,1,1. Landing page,472
+2013-08-01,paid_brand,desktop,2,2. Products,319
+2013-08-01,paid_brand,desktop,3,3. Product page,259
+2013-08-01,paid_brand,desktop,4,4. Cart,112
+2013-08-01,paid_brand,desktop,5,5. Shipping,85
+2013-08-01,paid_brand,desktop,6,6. Billing,71
+2013-08-01,paid_brand,desktop,7,7. Order,53
+2013-08-01,paid_brand,mobile,1,1. Landing page,250
+2013-08-01,paid_brand,mobile,2,2. Products,118
+2013-08-01,paid_brand,mobile,3,3. Product page,79
+2013-08-01,paid_brand,mobile,4,4. Cart,22
+2013-08-01,paid_brand,mobile,5,5. Shipping,11
+2013-08-01,paid_brand,mobile,6,6. Billing,7
+2013-08-01,paid_brand,mobile,7,7. Order,3
+2013-08-01,paid_nonbrand,desktop,1,1. Landing page,5163
+2013-08-01,paid_nonbrand,desktop,2,2. Products,2922
+2013-08-01,paid_nonbrand,desktop,3,3. Product page,2345
+2013-08-01,paid_nonbrand,desktop,4,4. Cart,1070
+2013-08-01,paid_nonbrand,desktop,5,5. Shipping,727
+2013-08-01,paid_nonbrand,desktop,6,6. Billing,611
+2013-08-01,paid_nonbrand,desktop,7,7. Order,392
+2013-08-01,paid_nonbrand,mobile,1,1. Landing page,1860
+2013-08-01,paid_nonbrand,mobile,2,2. Products,1004
+2013-08-01,paid_nonbrand,mobile,3,3. Product page,635
+2013-08-01,paid_nonbrand,mobile,4,4. Cart,289
+2013-08-01,paid_nonbrand,mobile,5,5. Shipping,174
+2013-08-01,paid_nonbrand,mobile,6,6. Billing,118
+2013-08-01,paid_nonbrand,mobile,7,7. Order,67
+2013-09-01,direct_type_in,desktop,1,1. Landing page,394
+2013-09-01,direct_type_in,desktop,2,2. Products,272
+2013-09-01,direct_type_in,desktop,3,3. Product page,227
+2013-09-01,direct_type_in,desktop,4,4. Cart,89
+2013-09-01,direct_type_in,desktop,5,5. Shipping,63
+2013-09-01,direct_type_in,desktop,6,6. Billing,54
+2013-09-01,direct_type_in,desktop,7,7. Order,36
+2013-09-01,direct_type_in,mobile,1,1. Landing page,294
+2013-09-01,direct_type_in,mobile,2,2. Products,149
+2013-09-01,direct_type_in,mobile,3,3. Product page,93
+2013-09-01,direct_type_in,mobile,4,4. Cart,35
+2013-09-01,direct_type_in,mobile,5,5. Shipping,23
+2013-09-01,direct_type_in,mobile,6,6. Billing,20
+2013-09-01,direct_type_in,mobile,7,7. Order,12
+2013-09-01,organic_search,desktop,1,1. Landing page,512
+2013-09-01,organic_search,desktop,2,2. Products,333
+2013-09-01,organic_search,desktop,3,3. Product page,260
+2013-09-01,organic_search,desktop,4,4. Cart,112
+2013-09-01,organic_search,desktop,5,5. Shipping,84
+2013-09-01,organic_search,desktop,6,6. Billing,72
+2013-09-01,organic_search,desktop,7,7. Order,46
+2013-09-01,organic_search,mobile,1,1. Landing page,263
+2013-09-01,organic_search,mobile,2,2. Products,126
+2013-09-01,organic_search,mobile,3,3. Product page,81
+2013-09-01,organic_search,mobile,4,4. Cart,35
+2013-09-01,organic_search,mobile,5,5. Shipping,21
+2013-09-01,organic_search,mobile,6,6. Billing,15
+2013-09-01,organic_search,mobile,7,7. Order,10
+2013-09-01,paid_brand,desktop,1,1. Landing page,473
+2013-09-01,paid_brand,desktop,2,2. Products,334
+2013-09-01,paid_brand,desktop,3,3. Product page,263
+2013-09-01,paid_brand,desktop,4,4. Cart,130
+2013-09-01,paid_brand,desktop,5,5. Shipping,84
+2013-09-01,paid_brand,desktop,6,6. Billing,70
+2013-09-01,paid_brand,desktop,7,7. Order,42
+2013-09-01,paid_brand,mobile,1,1. Landing page,263
+2013-09-01,paid_brand,mobile,2,2. Products,134
+2013-09-01,paid_brand,mobile,3,3. Product page,80
+2013-09-01,paid_brand,mobile,4,4. Cart,34
+2013-09-01,paid_brand,mobile,5,5. Shipping,21
+2013-09-01,paid_brand,mobile,6,6. Billing,17
+2013-09-01,paid_brand,mobile,7,7. Order,10
+2013-09-01,paid_nonbrand,desktop,1,1. Landing page,4988
+2013-09-01,paid_nonbrand,desktop,2,2. Products,2833
+2013-09-01,paid_nonbrand,desktop,3,3. Product page,2276
+2013-09-01,paid_nonbrand,desktop,4,4. Cart,1036
+2013-09-01,paid_nonbrand,desktop,5,5. Shipping,725
+2013-09-01,paid_nonbrand,desktop,6,6. Billing,589
+2013-09-01,paid_nonbrand,desktop,7,7. Order,402
+2013-09-01,paid_nonbrand,mobile,1,1. Landing page,2393
+2013-09-01,paid_nonbrand,mobile,2,2. Products,1219
+2013-09-01,paid_nonbrand,mobile,3,3. Product page,793
+2013-09-01,paid_nonbrand,mobile,4,4. Cart,315
+2013-09-01,paid_nonbrand,mobile,5,5. Shipping,178
+2013-09-01,paid_nonbrand,mobile,6,6. Billing,119
+2013-09-01,paid_nonbrand,mobile,7,7. Order,71
+2013-10-01,direct_type_in,desktop,1,1. Landing page,502
+2013-10-01,direct_type_in,desktop,2,2. Products,344
+2013-10-01,direct_type_in,desktop,3,3. Product page,272
+2013-10-01,direct_type_in,desktop,4,4. Cart,119
+2013-10-01,direct_type_in,desktop,5,5. Shipping,82
+2013-10-01,direct_type_in,desktop,6,6. Billing,65
+2013-10-01,direct_type_in,desktop,7,7. Order,39
+2013-10-01,direct_type_in,mobile,1,1. Landing page,368
+2013-10-01,direct_type_in,mobile,2,2. Products,194
+2013-10-01,direct_type_in,mobile,3,3. Product page,123
+2013-10-01,direct_type_in,mobile,4,4. Cart,51
+2013-10-01,direct_type_in,mobile,5,5. Shipping,34
+2013-10-01,direct_type_in,mobile,6,6. Billing,25
+2013-10-01,direct_type_in,mobile,7,7. Order,15
+2013-10-01,organic_search,desktop,1,1. Landing page,611
+2013-10-01,organic_search,desktop,2,2. Products,413
+2013-10-01,organic_search,desktop,3,3. Product page,333
+2013-10-01,organic_search,desktop,4,4. Cart,146
+2013-10-01,organic_search,desktop,5,5. Shipping,106
+2013-10-01,organic_search,desktop,6,6. Billing,86
+2013-10-01,organic_search,desktop,7,7. Order,52
+2013-10-01,organic_search,mobile,1,1. Landing page,310
+2013-10-01,organic_search,mobile,2,2. Products,150
+2013-10-01,organic_search,mobile,3,3. Product page,97
+2013-10-01,organic_search,mobile,4,4. Cart,45
+2013-10-01,organic_search,mobile,5,5. Shipping,31
+2013-10-01,organic_search,mobile,6,6. Billing,18
+2013-10-01,organic_search,mobile,7,7. Order,9
+2013-10-01,paid_brand,desktop,1,1. Landing page,563
+2013-10-01,paid_brand,desktop,2,2. Products,376
+2013-10-01,paid_brand,desktop,3,3. Product page,302
+2013-10-01,paid_brand,desktop,4,4. Cart,134
+2013-10-01,paid_brand,desktop,5,5. Shipping,105
+2013-10-01,paid_brand,desktop,6,6. Billing,88
+2013-10-01,paid_brand,desktop,7,7. Order,60
+2013-10-01,paid_brand,mobile,1,1. Landing page,293
+2013-10-01,paid_brand,mobile,2,2. Products,155
+2013-10-01,paid_brand,mobile,3,3. Product page,110
+2013-10-01,paid_brand,mobile,4,4. Cart,48
+2013-10-01,paid_brand,mobile,5,5. Shipping,25
+2013-10-01,paid_brand,mobile,6,6. Billing,17
+2013-10-01,paid_brand,mobile,7,7. Order,7
+2013-10-01,paid_nonbrand,desktop,1,1. Landing page,5602
+2013-10-01,paid_nonbrand,desktop,2,2. Products,3105
+2013-10-01,paid_nonbrand,desktop,3,3. Product page,2486
+2013-10-01,paid_nonbrand,desktop,4,4. Cart,1160
+2013-10-01,paid_nonbrand,desktop,5,5. Shipping,844
+2013-10-01,paid_nonbrand,desktop,6,6. Billing,711
+2013-10-01,paid_nonbrand,desktop,7,7. Order,456
+2013-10-01,paid_nonbrand,mobile,1,1. Landing page,2524
+2013-10-01,paid_nonbrand,mobile,2,2. Products,1301
+2013-10-01,paid_nonbrand,mobile,3,3. Product page,841
+2013-10-01,paid_nonbrand,mobile,4,4. Cart,343
+2013-10-01,paid_nonbrand,mobile,5,5. Shipping,199
+2013-10-01,paid_nonbrand,mobile,6,6. Billing,134
+2013-10-01,paid_nonbrand,mobile,7,7. Order,70
+2013-11-01,direct_type_in,desktop,1,1. Landing page,564
+2013-11-01,direct_type_in,desktop,2,2. Products,373
+2013-11-01,direct_type_in,desktop,3,3. Product page,305
+2013-11-01,direct_type_in,desktop,4,4. Cart,130
+2013-11-01,direct_type_in,desktop,5,5. Shipping,98
+2013-11-01,direct_type_in,desktop,6,6. Billing,79
+2013-11-01,direct_type_in,desktop,7,7. Order,43
+2013-11-01,direct_type_in,mobile,1,1. Landing page,382
+2013-11-01,direct_type_in,mobile,2,2. Products,203
+2013-11-01,direct_type_in,mobile,3,3. Product page,134
+2013-11-01,direct_type_in,mobile,4,4. Cart,57
+2013-11-01,direct_type_in,mobile,5,5. Shipping,34
+2013-11-01,direct_type_in,mobile,6,6. Billing,23
+2013-11-01,direct_type_in,mobile,7,7. Order,11
+2013-11-01,organic_search,desktop,1,1. Landing page,628
+2013-11-01,organic_search,desktop,2,2. Products,396
+2013-11-01,organic_search,desktop,3,3. Product page,313
+2013-11-01,organic_search,desktop,4,4. Cart,154
+2013-11-01,organic_search,desktop,5,5. Shipping,107
+2013-11-01,organic_search,desktop,6,6. Billing,88
+2013-11-01,organic_search,desktop,7,7. Order,56
+2013-11-01,organic_search,mobile,1,1. Landing page,341
+2013-11-01,organic_search,mobile,2,2. Products,150
+2013-11-01,organic_search,mobile,3,3. Product page,96
+2013-11-01,organic_search,mobile,4,4. Cart,44
+2013-11-01,organic_search,mobile,5,5. Shipping,26
+2013-11-01,organic_search,mobile,6,6. Billing,20
+2013-11-01,organic_search,mobile,7,7. Order,13
+2013-11-01,paid_brand,desktop,1,1. Landing page,629
+2013-11-01,paid_brand,desktop,2,2. Products,420
+2013-11-01,paid_brand,desktop,3,3. Product page,332
+2013-11-01,paid_brand,desktop,4,4. Cart,142
+2013-11-01,paid_brand,desktop,5,5. Shipping,104
+2013-11-01,paid_brand,desktop,6,6. Billing,84
+2013-11-01,paid_brand,desktop,7,7. Order,63
+2013-11-01,paid_brand,mobile,1,1. Landing page,331
+2013-11-01,paid_brand,mobile,2,2. Products,153
+2013-11-01,paid_brand,mobile,3,3. Product page,99
+2013-11-01,paid_brand,mobile,4,4. Cart,42
+2013-11-01,paid_brand,mobile,5,5. Shipping,25
+2013-11-01,paid_brand,mobile,6,6. Billing,18
+2013-11-01,paid_brand,mobile,7,7. Order,9
+2013-11-01,paid_nonbrand,desktop,1,1. Landing page,7507
+2013-11-01,paid_nonbrand,desktop,2,2. Products,4272
+2013-11-01,paid_nonbrand,desktop,3,3. Product page,3342
+2013-11-01,paid_nonbrand,desktop,4,4. Cart,1558
+2013-11-01,paid_nonbrand,desktop,5,5. Shipping,1087
+2013-11-01,paid_nonbrand,desktop,6,6. Billing,896
+2013-11-01,paid_nonbrand,desktop,7,7. Order,549
+2013-11-01,paid_nonbrand,mobile,1,1. Landing page,3650
+2013-11-01,paid_nonbrand,mobile,2,2. Products,1918
+2013-11-01,paid_nonbrand,mobile,3,3. Product page,1278
+2013-11-01,paid_nonbrand,mobile,4,4. Cart,516
+2013-11-01,paid_nonbrand,mobile,5,5. Shipping,306
+2013-11-01,paid_nonbrand,mobile,6,6. Billing,227
+2013-11-01,paid_nonbrand,mobile,7,7. Order,117
+2013-12-01,direct_type_in,desktop,1,1. Landing page,710
+2013-12-01,direct_type_in,desktop,2,2. Products,476
+2013-12-01,direct_type_in,desktop,3,3. Product page,404
+2013-12-01,direct_type_in,desktop,4,4. Cart,187
+2013-12-01,direct_type_in,desktop,5,5. Shipping,131
+2013-12-01,direct_type_in,desktop,6,6. Billing,110
+2013-12-01,direct_type_in,desktop,7,7. Order,71
+2013-12-01,direct_type_in,mobile,1,1. Landing page,520
+2013-12-01,direct_type_in,mobile,2,2. Products,227
+2013-12-01,direct_type_in,mobile,3,3. Product page,143
+2013-12-01,direct_type_in,mobile,4,4. Cart,64
+2013-12-01,direct_type_in,mobile,5,5. Shipping,43
+2013-12-01,direct_type_in,mobile,6,6. Billing,34
+2013-12-01,direct_type_in,mobile,7,7. Order,18
+2013-12-01,organic_search,desktop,1,1. Landing page,850
+2013-12-01,organic_search,desktop,2,2. Products,548
+2013-12-01,organic_search,desktop,3,3. Product page,478
+2013-12-01,organic_search,desktop,4,4. Cart,223
+2013-12-01,organic_search,desktop,5,5. Shipping,161
+2013-12-01,organic_search,desktop,6,6. Billing,132
+2013-12-01,organic_search,desktop,7,7. Order,83
+2013-12-01,organic_search,mobile,1,1. Landing page,474
+2013-12-01,organic_search,mobile,2,2. Products,227
+2013-12-01,organic_search,mobile,3,3. Product page,160
+2013-12-01,organic_search,mobile,4,4. Cart,71
+2013-12-01,organic_search,mobile,5,5. Shipping,37
+2013-12-01,organic_search,mobile,6,6. Billing,29
+2013-12-01,organic_search,mobile,7,7. Order,10
+2013-12-01,paid_brand,desktop,1,1. Landing page,812
+2013-12-01,paid_brand,desktop,2,2. Products,550
+2013-12-01,paid_brand,desktop,3,3. Product page,470
+2013-12-01,paid_brand,desktop,4,4. Cart,211
+2013-12-01,paid_brand,desktop,5,5. Shipping,158
+2013-12-01,paid_brand,desktop,6,6. Billing,139
+2013-12-01,paid_brand,desktop,7,7. Order,94
+2013-12-01,paid_brand,mobile,1,1. Landing page,469
+2013-12-01,paid_brand,mobile,2,2. Products,229
+2013-12-01,paid_brand,mobile,3,3. Product page,164
+2013-12-01,paid_brand,mobile,4,4. Cart,69
+2013-12-01,paid_brand,mobile,5,5. Shipping,43
+2013-12-01,paid_brand,mobile,6,6. Billing,31
+2013-12-01,paid_brand,mobile,7,7. Order,15
+2013-12-01,paid_nonbrand,desktop,1,1. Landing page,8071
+2013-12-01,paid_nonbrand,desktop,2,2. Products,4537
+2013-12-01,paid_nonbrand,desktop,3,3. Product page,3789
+2013-12-01,paid_nonbrand,desktop,4,4. Cart,1695
+2013-12-01,paid_nonbrand,desktop,5,5. Shipping,1180
+2013-12-01,paid_nonbrand,desktop,6,6. Billing,957
+2013-12-01,paid_nonbrand,desktop,7,7. Order,606
+2013-12-01,paid_nonbrand,mobile,1,1. Landing page,3829
+2013-12-01,paid_nonbrand,mobile,2,2. Products,2047
+2013-12-01,paid_nonbrand,mobile,3,3. Product page,1419
+2013-12-01,paid_nonbrand,mobile,4,4. Cart,616
+2013-12-01,paid_nonbrand,mobile,5,5. Shipping,371
+2013-12-01,paid_nonbrand,mobile,6,6. Billing,270
+2013-12-01,paid_nonbrand,mobile,7,7. Order,150
+2014-01-01,direct_type_in,desktop,1,1. Landing page,809
+2014-01-01,direct_type_in,desktop,2,2. Products,542
+2014-01-01,direct_type_in,desktop,3,3. Product page,476
+2014-01-01,direct_type_in,desktop,4,4. Cart,217
+2014-01-01,direct_type_in,desktop,5,5. Shipping,156
+2014-01-01,direct_type_in,desktop,6,6. Billing,133
+2014-01-01,direct_type_in,desktop,7,7. Order,85
+2014-01-01,direct_type_in,mobile,1,1. Landing page,511
+2014-01-01,direct_type_in,mobile,2,2. Products,240
+2014-01-01,direct_type_in,mobile,3,3. Product page,162
+2014-01-01,direct_type_in,mobile,4,4. Cart,58
+2014-01-01,direct_type_in,mobile,5,5. Shipping,40
+2014-01-01,direct_type_in,mobile,6,6. Billing,25
+2014-01-01,direct_type_in,mobile,7,7. Order,16
+2014-01-01,organic_search,desktop,1,1. Landing page,900
+2014-01-01,organic_search,desktop,2,2. Products,628
+2014-01-01,organic_search,desktop,3,3. Product page,541
+2014-01-01,organic_search,desktop,4,4. Cart,254
+2014-01-01,organic_search,desktop,5,5. Shipping,158
+2014-01-01,organic_search,desktop,6,6. Billing,123
+2014-01-01,organic_search,desktop,7,7. Order,77
+2014-01-01,organic_search,mobile,1,1. Landing page,504
+2014-01-01,organic_search,mobile,2,2. Products,251
+2014-01-01,organic_search,mobile,3,3. Product page,176
+2014-01-01,organic_search,mobile,4,4. Cart,71
+2014-01-01,organic_search,mobile,5,5. Shipping,38
+2014-01-01,organic_search,mobile,6,6. Billing,28
+2014-01-01,organic_search,mobile,7,7. Order,16
+2014-01-01,paid_brand,desktop,1,1. Landing page,889
+2014-01-01,paid_brand,desktop,2,2. Products,609
+2014-01-01,paid_brand,desktop,3,3. Product page,525
+2014-01-01,paid_brand,desktop,4,4. Cart,251
+2014-01-01,paid_brand,desktop,5,5. Shipping,181
+2014-01-01,paid_brand,desktop,6,6. Billing,146
+2014-01-01,paid_brand,desktop,7,7. Order,106
+2014-01-01,paid_brand,mobile,1,1. Landing page,480
+2014-01-01,paid_brand,mobile,2,2. Products,248
+2014-01-01,paid_brand,mobile,3,3. Product page,164
+2014-01-01,paid_brand,mobile,4,4. Cart,79
+2014-01-01,paid_brand,mobile,5,5. Shipping,49
+2014-01-01,paid_brand,mobile,6,6. Billing,32
+2014-01-01,paid_brand,mobile,7,7. Order,14
+2014-01-01,paid_nonbrand,desktop,1,1. Landing page,6332
+2014-01-01,paid_nonbrand,desktop,2,2. Products,3592
+2014-01-01,paid_nonbrand,desktop,3,3. Product page,3158
+2014-01-01,paid_nonbrand,desktop,4,4. Cart,1455
+2014-01-01,paid_nonbrand,desktop,5,5. Shipping,1049
+2014-01-01,paid_nonbrand,desktop,6,6. Billing,867
+2014-01-01,paid_nonbrand,desktop,7,7. Order,550
+2014-01-01,paid_nonbrand,mobile,1,1. Landing page,2782
+2014-01-01,paid_nonbrand,mobile,2,2. Products,1460
+2014-01-01,paid_nonbrand,mobile,3,3. Product page,1015
+2014-01-01,paid_nonbrand,mobile,4,4. Cart,434
+2014-01-01,paid_nonbrand,mobile,5,5. Shipping,247
+2014-01-01,paid_nonbrand,mobile,6,6. Billing,174
+2014-01-01,paid_nonbrand,mobile,7,7. Order,102
+2014-01-01,paid_social,desktop,1,1. Landing page,168
+2014-01-01,paid_social,desktop,2,2. Products,53
+2014-01-01,paid_social,desktop,3,3. Product page,45
+2014-01-01,paid_social,desktop,4,4. Cart,20
+2014-01-01,paid_social,desktop,5,5. Shipping,14
+2014-01-01,paid_social,desktop,6,6. Billing,12
+2014-01-01,paid_social,desktop,7,7. Order,7
+2014-01-01,paid_social,mobile,1,1. Landing page,1450
+2014-01-01,paid_social,mobile,2,2. Products,166
+2014-01-01,paid_social,mobile,3,3. Product page,124
+2014-01-01,paid_social,mobile,4,4. Cart,50
+2014-01-01,paid_social,mobile,5,5. Shipping,33
+2014-01-01,paid_social,mobile,6,6. Billing,21
+2014-01-01,paid_social,mobile,7,7. Order,10
+2014-02-01,direct_type_in,desktop,1,1. Landing page,761
+2014-02-01,direct_type_in,desktop,2,2. Products,487
+2014-02-01,direct_type_in,desktop,3,3. Product page,432
+2014-02-01,direct_type_in,desktop,4,4. Cart,205
+2014-02-01,direct_type_in,desktop,5,5. Shipping,145
+2014-02-01,direct_type_in,desktop,6,6. Billing,120
+2014-02-01,direct_type_in,desktop,7,7. Order,80
+2014-02-01,direct_type_in,mobile,1,1. Landing page,552
+2014-02-01,direct_type_in,mobile,2,2. Products,276
+2014-02-01,direct_type_in,mobile,3,3. Product page,198
+2014-02-01,direct_type_in,mobile,4,4. Cart,79
+2014-02-01,direct_type_in,mobile,5,5. Shipping,49
+2014-02-01,direct_type_in,mobile,6,6. Billing,37
+2014-02-01,direct_type_in,mobile,7,7. Order,20
+2014-02-01,organic_search,desktop,1,1. Landing page,994
+2014-02-01,organic_search,desktop,2,2. Products,663
+2014-02-01,organic_search,desktop,3,3. Product page,585
+2014-02-01,organic_search,desktop,4,4. Cart,295
+2014-02-01,organic_search,desktop,5,5. Shipping,200
+2014-02-01,organic_search,desktop,6,6. Billing,175
+2014-02-01,organic_search,desktop,7,7. Order,113
+2014-02-01,organic_search,mobile,1,1. Landing page,512
+2014-02-01,organic_search,mobile,2,2. Products,251
+2014-02-01,organic_search,mobile,3,3. Product page,168
+2014-02-01,organic_search,mobile,4,4. Cart,74
+2014-02-01,organic_search,mobile,5,5. Shipping,45
+2014-02-01,organic_search,mobile,6,6. Billing,30
+2014-02-01,organic_search,mobile,7,7. Order,14
+2014-02-01,paid_brand,desktop,1,1. Landing page,895
+2014-02-01,paid_brand,desktop,2,2. Products,602
+2014-02-01,paid_brand,desktop,3,3. Product page,525
+2014-02-01,paid_brand,desktop,4,4. Cart,241
+2014-02-01,paid_brand,desktop,5,5. Shipping,165
+2014-02-01,paid_brand,desktop,6,6. Billing,141
+2014-02-01,paid_brand,desktop,7,7. Order,85
+2014-02-01,paid_brand,mobile,1,1. Landing page,465
+2014-02-01,paid_brand,mobile,2,2. Products,214
+2014-02-01,paid_brand,mobile,3,3. Product page,138
+2014-02-01,paid_brand,mobile,4,4. Cart,61
+2014-02-01,paid_brand,mobile,5,5. Shipping,44
+2014-02-01,paid_brand,mobile,6,6. Billing,33
+2014-02-01,paid_brand,mobile,7,7. Order,17
+2014-02-01,paid_nonbrand,desktop,1,1. Landing page,6751
+2014-02-01,paid_nonbrand,desktop,2,2. Products,3604
+2014-02-01,paid_nonbrand,desktop,3,3. Product page,3155
+2014-02-01,paid_nonbrand,desktop,4,4. Cart,1501
+2014-02-01,paid_nonbrand,desktop,5,5. Shipping,1038
+2014-02-01,paid_nonbrand,desktop,6,6. Billing,836
+2014-02-01,paid_nonbrand,desktop,7,7. Order,555
+2014-02-01,paid_nonbrand,mobile,1,1. Landing page,3118
+2014-02-01,paid_nonbrand,mobile,2,2. Products,1587
+2014-02-01,paid_nonbrand,mobile,3,3. Product page,1084
+2014-02-01,paid_nonbrand,mobile,4,4. Cart,452
+2014-02-01,paid_nonbrand,mobile,5,5. Shipping,280
+2014-02-01,paid_nonbrand,mobile,6,6. Billing,195
+2014-02-01,paid_nonbrand,mobile,7,7. Order,113
+2014-02-01,paid_social,desktop,1,1. Landing page,226
+2014-02-01,paid_social,desktop,2,2. Products,67
+2014-02-01,paid_social,desktop,3,3. Product page,57
+2014-02-01,paid_social,desktop,4,4. Cart,20
+2014-02-01,paid_social,desktop,5,5. Shipping,14
+2014-02-01,paid_social,desktop,6,6. Billing,12
+2014-02-01,paid_social,desktop,7,7. Order,8
+2014-02-01,paid_social,mobile,1,1. Landing page,2011
+2014-02-01,paid_social,mobile,2,2. Products,210
+2014-02-01,paid_social,mobile,3,3. Product page,143
+2014-02-01,paid_social,mobile,4,4. Cart,76
+2014-02-01,paid_social,mobile,5,5. Shipping,43
+2014-02-01,paid_social,mobile,6,6. Billing,31
+2014-02-01,paid_social,mobile,7,7. Order,16
+2014-03-01,direct_type_in,desktop,1,1. Landing page,837
+2014-03-01,direct_type_in,desktop,2,2. Products,561
+2014-03-01,direct_type_in,desktop,3,3. Product page,481
+2014-03-01,direct_type_in,desktop,4,4. Cart,216
+2014-03-01,direct_type_in,desktop,5,5. Shipping,144
+2014-03-01,direct_type_in,desktop,6,6. Billing,123
+2014-03-01,direct_type_in,desktop,7,7. Order,89
+2014-03-01,direct_type_in,mobile,1,1. Landing page,594
+2014-03-01,direct_type_in,mobile,2,2. Products,300
+2014-03-01,direct_type_in,mobile,3,3. Product page,206
+2014-03-01,direct_type_in,mobile,4,4. Cart,83
+2014-03-01,direct_type_in,mobile,5,5. Shipping,53
+2014-03-01,direct_type_in,mobile,6,6. Billing,37
+2014-03-01,direct_type_in,mobile,7,7. Order,21
+2014-03-01,organic_search,desktop,1,1. Landing page,1021
+2014-03-01,organic_search,desktop,2,2. Products,685
+2014-03-01,organic_search,desktop,3,3. Product page,597
+2014-03-01,organic_search,desktop,4,4. Cart,263
+2014-03-01,organic_search,desktop,5,5. Shipping,186
+2014-03-01,organic_search,desktop,6,6. Billing,149
+2014-03-01,organic_search,desktop,7,7. Order,106
+2014-03-01,organic_search,mobile,1,1. Landing page,540
+2014-03-01,organic_search,mobile,2,2. Products,278
+2014-03-01,organic_search,mobile,3,3. Product page,196
+2014-03-01,organic_search,mobile,4,4. Cart,70
+2014-03-01,organic_search,mobile,5,5. Shipping,37
+2014-03-01,organic_search,mobile,6,6. Billing,25
+2014-03-01,organic_search,mobile,7,7. Order,12
+2014-03-01,paid_brand,desktop,1,1. Landing page,997
+2014-03-01,paid_brand,desktop,2,2. Products,671
+2014-03-01,paid_brand,desktop,3,3. Product page,601
+2014-03-01,paid_brand,desktop,4,4. Cart,286
+2014-03-01,paid_brand,desktop,5,5. Shipping,199
+2014-03-01,paid_brand,desktop,6,6. Billing,170
+2014-03-01,paid_brand,desktop,7,7. Order,115
+2014-03-01,paid_brand,mobile,1,1. Landing page,491
+2014-03-01,paid_brand,mobile,2,2. Products,238
+2014-03-01,paid_brand,mobile,3,3. Product page,157
+2014-03-01,paid_brand,mobile,4,4. Cart,64
+2014-03-01,paid_brand,mobile,5,5. Shipping,43
+2014-03-01,paid_brand,mobile,6,6. Billing,27
+2014-03-01,paid_brand,mobile,7,7. Order,17
+2014-03-01,paid_nonbrand,desktop,1,1. Landing page,6816
+2014-03-01,paid_nonbrand,desktop,2,2. Products,3571
+2014-03-01,paid_nonbrand,desktop,3,3. Product page,3144
+2014-03-01,paid_nonbrand,desktop,4,4. Cart,1468
+2014-03-01,paid_nonbrand,desktop,5,5. Shipping,1022
+2014-03-01,paid_nonbrand,desktop,6,6. Billing,861
+2014-03-01,paid_nonbrand,desktop,7,7. Order,585
+2014-03-01,paid_nonbrand,mobile,1,1. Landing page,3133
+2014-03-01,paid_nonbrand,mobile,2,2. Products,1642
+2014-03-01,paid_nonbrand,mobile,3,3. Product page,1162
+2014-03-01,paid_nonbrand,mobile,4,4. Cart,490
+2014-03-01,paid_nonbrand,mobile,5,5. Shipping,295
+2014-03-01,paid_nonbrand,mobile,6,6. Billing,210
+2014-03-01,paid_nonbrand,mobile,7,7. Order,106
+2014-03-01,paid_social,desktop,1,1. Landing page,128
+2014-03-01,paid_social,desktop,2,2. Products,37
+2014-03-01,paid_social,desktop,3,3. Product page,33
+2014-03-01,paid_social,desktop,4,4. Cart,15
+2014-03-01,paid_social,desktop,5,5. Shipping,7
+2014-03-01,paid_social,desktop,6,6. Billing,6
+2014-03-01,paid_social,desktop,7,7. Order,2
+2014-03-01,paid_social,mobile,1,1. Landing page,1112
+2014-03-01,paid_social,mobile,2,2. Products,126
+2014-03-01,paid_social,mobile,3,3. Product page,92
+2014-03-01,paid_social,mobile,4,4. Cart,38
+2014-03-01,paid_social,mobile,5,5. Shipping,20
+2014-03-01,paid_social,mobile,6,6. Billing,17
+2014-03-01,paid_social,mobile,7,7. Order,12
+2014-04-01,direct_type_in,desktop,1,1. Landing page,952
+2014-04-01,direct_type_in,desktop,2,2. Products,661
+2014-04-01,direct_type_in,desktop,3,3. Product page,581
+2014-04-01,direct_type_in,desktop,4,4. Cart,291
+2014-04-01,direct_type_in,desktop,5,5. Shipping,210
+2014-04-01,direct_type_in,desktop,6,6. Billing,177
+2014-04-01,direct_type_in,desktop,7,7. Order,108
+2014-04-01,direct_type_in,mobile,1,1. Landing page,694
+2014-04-01,direct_type_in,mobile,2,2. Products,328
+2014-04-01,direct_type_in,mobile,3,3. Product page,249
+2014-04-01,direct_type_in,mobile,4,4. Cart,116
+2014-04-01,direct_type_in,mobile,5,5. Shipping,77
+2014-04-01,direct_type_in,mobile,6,6. Billing,55
+2014-04-01,direct_type_in,mobile,7,7. Order,25
+2014-04-01,organic_search,desktop,1,1. Landing page,1123
+2014-04-01,organic_search,desktop,2,2. Products,784
+2014-04-01,organic_search,desktop,3,3. Product page,688
+2014-04-01,organic_search,desktop,4,4. Cart,316
+2014-04-01,organic_search,desktop,5,5. Shipping,225
+2014-04-01,organic_search,desktop,6,6. Billing,178
+2014-04-01,organic_search,desktop,7,7. Order,117
+2014-04-01,organic_search,mobile,1,1. Landing page,637
+2014-04-01,organic_search,mobile,2,2. Products,319
+2014-04-01,organic_search,mobile,3,3. Product page,214
+2014-04-01,organic_search,mobile,4,4. Cart,92
+2014-04-01,organic_search,mobile,5,5. Shipping,51
+2014-04-01,organic_search,mobile,6,6. Billing,36
+2014-04-01,organic_search,mobile,7,7. Order,19
+2014-04-01,paid_brand,desktop,1,1. Landing page,1035
+2014-04-01,paid_brand,desktop,2,2. Products,707
+2014-04-01,paid_brand,desktop,3,3. Product page,616
+2014-04-01,paid_brand,desktop,4,4. Cart,306
+2014-04-01,paid_brand,desktop,5,5. Shipping,221
+2014-04-01,paid_brand,desktop,6,6. Billing,182
+2014-04-01,paid_brand,desktop,7,7. Order,125
+2014-04-01,paid_brand,mobile,1,1. Landing page,595
+2014-04-01,paid_brand,mobile,2,2. Products,286
+2014-04-01,paid_brand,mobile,3,3. Product page,195
+2014-04-01,paid_brand,mobile,4,4. Cart,86
+2014-04-01,paid_brand,mobile,5,5. Shipping,52
+2014-04-01,paid_brand,mobile,6,6. Billing,35
+2014-04-01,paid_brand,mobile,7,7. Order,21
+2014-04-01,paid_nonbrand,desktop,1,1. Landing page,8409
+2014-04-01,paid_nonbrand,desktop,2,2. Products,4583
+2014-04-01,paid_nonbrand,desktop,3,3. Product page,3965
+2014-04-01,paid_nonbrand,desktop,4,4. Cart,1836
+2014-04-01,paid_nonbrand,desktop,5,5. Shipping,1290
+2014-04-01,paid_nonbrand,desktop,6,6. Billing,1065
+2014-04-01,paid_nonbrand,desktop,7,7. Order,669
+2014-04-01,paid_nonbrand,mobile,1,1. Landing page,3908
+2014-04-01,paid_nonbrand,mobile,2,2. Products,2077
+2014-04-01,paid_nonbrand,mobile,3,3. Product page,1450
+2014-04-01,paid_nonbrand,mobile,4,4. Cart,612
+2014-04-01,paid_nonbrand,mobile,5,5. Shipping,351
+2014-04-01,paid_nonbrand,mobile,6,6. Billing,249
+2014-04-01,paid_nonbrand,mobile,7,7. Order,157
+2014-05-01,direct_type_in,desktop,1,1. Landing page,981
+2014-05-01,direct_type_in,desktop,2,2. Products,635
+2014-05-01,direct_type_in,desktop,3,3. Product page,555
+2014-05-01,direct_type_in,desktop,4,4. Cart,263
+2014-05-01,direct_type_in,desktop,5,5. Shipping,178
+2014-05-01,direct_type_in,desktop,6,6. Billing,152
+2014-05-01,direct_type_in,desktop,7,7. Order,96
+2014-05-01,direct_type_in,mobile,1,1. Landing page,694
+2014-05-01,direct_type_in,mobile,2,2. Products,322
+2014-05-01,direct_type_in,mobile,3,3. Product page,224
+2014-05-01,direct_type_in,mobile,4,4. Cart,105
+2014-05-01,direct_type_in,mobile,5,5. Shipping,56
+2014-05-01,direct_type_in,mobile,6,6. Billing,38
+2014-05-01,direct_type_in,mobile,7,7. Order,25
+2014-05-01,organic_search,desktop,1,1. Landing page,1243
+2014-05-01,organic_search,desktop,2,2. Products,840
+2014-05-01,organic_search,desktop,3,3. Product page,756
+2014-05-01,organic_search,desktop,4,4. Cart,371
+2014-05-01,organic_search,desktop,5,5. Shipping,260
+2014-05-01,organic_search,desktop,6,6. Billing,208
+2014-05-01,organic_search,desktop,7,7. Order,139
+2014-05-01,organic_search,mobile,1,1. Landing page,646
+2014-05-01,organic_search,mobile,2,2. Products,312
+2014-05-01,organic_search,mobile,3,3. Product page,229
+2014-05-01,organic_search,mobile,4,4. Cart,94
+2014-05-01,organic_search,mobile,5,5. Shipping,57
+2014-05-01,organic_search,mobile,6,6. Billing,39
+2014-05-01,organic_search,mobile,7,7. Order,21
+2014-05-01,paid_brand,desktop,1,1. Landing page,1098
+2014-05-01,paid_brand,desktop,2,2. Products,738
+2014-05-01,paid_brand,desktop,3,3. Product page,652
+2014-05-01,paid_brand,desktop,4,4. Cart,302
+2014-05-01,paid_brand,desktop,5,5. Shipping,215
+2014-05-01,paid_brand,desktop,6,6. Billing,177
+2014-05-01,paid_brand,desktop,7,7. Order,115
+2014-05-01,paid_brand,mobile,1,1. Landing page,616
+2014-05-01,paid_brand,mobile,2,2. Products,304
+2014-05-01,paid_brand,mobile,3,3. Product page,206
+2014-05-01,paid_brand,mobile,4,4. Cart,87
+2014-05-01,paid_brand,mobile,5,5. Shipping,54
+2014-05-01,paid_brand,mobile,6,6. Billing,32
+2014-05-01,paid_brand,mobile,7,7. Order,18
+2014-05-01,paid_nonbrand,desktop,1,1. Landing page,8512
+2014-05-01,paid_nonbrand,desktop,2,2. Products,4876
+2014-05-01,paid_nonbrand,desktop,3,3. Product page,4309
+2014-05-01,paid_nonbrand,desktop,4,4. Cart,1998
+2014-05-01,paid_nonbrand,desktop,5,5. Shipping,1417
+2014-05-01,paid_nonbrand,desktop,6,6. Billing,1187
+2014-05-01,paid_nonbrand,desktop,7,7. Order,785
+2014-05-01,paid_nonbrand,mobile,1,1. Landing page,4271
+2014-05-01,paid_nonbrand,mobile,2,2. Products,2233
+2014-05-01,paid_nonbrand,mobile,3,3. Product page,1534
+2014-05-01,paid_nonbrand,mobile,4,4. Cart,668
+2014-05-01,paid_nonbrand,mobile,5,5. Shipping,425
+2014-05-01,paid_nonbrand,mobile,6,6. Billing,309
+2014-05-01,paid_nonbrand,mobile,7,7. Order,169
+2014-06-01,direct_type_in,desktop,1,1. Landing page,979
+2014-06-01,direct_type_in,desktop,2,2. Products,643
+2014-06-01,direct_type_in,desktop,3,3. Product page,564
+2014-06-01,direct_type_in,desktop,4,4. Cart,264
+2014-06-01,direct_type_in,desktop,5,5. Shipping,175
+2014-06-01,direct_type_in,desktop,6,6. Billing,145
+2014-06-01,direct_type_in,desktop,7,7. Order,91
+2014-06-01,direct_type_in,mobile,1,1. Landing page,673
+2014-06-01,direct_type_in,mobile,2,2. Products,327
+2014-06-01,direct_type_in,mobile,3,3. Product page,243
+2014-06-01,direct_type_in,mobile,4,4. Cart,107
+2014-06-01,direct_type_in,mobile,5,5. Shipping,66
+2014-06-01,direct_type_in,mobile,6,6. Billing,43
+2014-06-01,direct_type_in,mobile,7,7. Order,22
+2014-06-01,organic_search,desktop,1,1. Landing page,1149
+2014-06-01,organic_search,desktop,2,2. Products,779
+2014-06-01,organic_search,desktop,3,3. Product page,680
+2014-06-01,organic_search,desktop,4,4. Cart,316
+2014-06-01,organic_search,desktop,5,5. Shipping,218
+2014-06-01,organic_search,desktop,6,6. Billing,182
+2014-06-01,organic_search,desktop,7,7. Order,115
+2014-06-01,organic_search,mobile,1,1. Landing page,670
+2014-06-01,organic_search,mobile,2,2. Products,317
+2014-06-01,organic_search,mobile,3,3. Product page,212
+2014-06-01,organic_search,mobile,4,4. Cart,92
+2014-06-01,organic_search,mobile,5,5. Shipping,56
+2014-06-01,organic_search,mobile,6,6. Billing,38
+2014-06-01,organic_search,mobile,7,7. Order,25
+2014-06-01,paid_brand,desktop,1,1. Landing page,1124
+2014-06-01,paid_brand,desktop,2,2. Products,737
+2014-06-01,paid_brand,desktop,3,3. Product page,631
+2014-06-01,paid_brand,desktop,4,4. Cart,286
+2014-06-01,paid_brand,desktop,5,5. Shipping,193
+2014-06-01,paid_brand,desktop,6,6. Billing,166
+2014-06-01,paid_brand,desktop,7,7. Order,113
+2014-06-01,paid_brand,mobile,1,1. Landing page,634
+2014-06-01,paid_brand,mobile,2,2. Products,312
+2014-06-01,paid_brand,mobile,3,3. Product page,222
+2014-06-01,paid_brand,mobile,4,4. Cart,86
+2014-06-01,paid_brand,mobile,5,5. Shipping,48
+2014-06-01,paid_brand,mobile,6,6. Billing,38
+2014-06-01,paid_brand,mobile,7,7. Order,18
+2014-06-01,paid_nonbrand,desktop,1,1. Landing page,8512
+2014-06-01,paid_nonbrand,desktop,2,2. Products,4843
+2014-06-01,paid_nonbrand,desktop,3,3. Product page,4298
+2014-06-01,paid_nonbrand,desktop,4,4. Cart,1916
+2014-06-01,paid_nonbrand,desktop,5,5. Shipping,1327
+2014-06-01,paid_nonbrand,desktop,6,6. Billing,1098
+2014-06-01,paid_nonbrand,desktop,7,7. Order,713
+2014-06-01,paid_nonbrand,mobile,1,1. Landing page,3974
+2014-06-01,paid_nonbrand,mobile,2,2. Products,2054
+2014-06-01,paid_nonbrand,mobile,3,3. Product page,1410
+2014-06-01,paid_nonbrand,mobile,4,4. Cart,586
+2014-06-01,paid_nonbrand,mobile,5,5. Shipping,349
+2014-06-01,paid_nonbrand,mobile,6,6. Billing,250
+2014-06-01,paid_nonbrand,mobile,7,7. Order,142
+2014-07-01,direct_type_in,desktop,1,1. Landing page,1170
+2014-07-01,direct_type_in,desktop,2,2. Products,790
+2014-07-01,direct_type_in,desktop,3,3. Product page,680
+2014-07-01,direct_type_in,desktop,4,4. Cart,308
+2014-07-01,direct_type_in,desktop,5,5. Shipping,210
+2014-07-01,direct_type_in,desktop,6,6. Billing,166
+2014-07-01,direct_type_in,desktop,7,7. Order,100
+2014-07-01,direct_type_in,mobile,1,1. Landing page,728
+2014-07-01,direct_type_in,mobile,2,2. Products,352
+2014-07-01,direct_type_in,mobile,3,3. Product page,262
+2014-07-01,direct_type_in,mobile,4,4. Cart,104
+2014-07-01,direct_type_in,mobile,5,5. Shipping,63
+2014-07-01,direct_type_in,mobile,6,6. Billing,40
+2014-07-01,direct_type_in,mobile,7,7. Order,26
+2014-07-01,organic_search,desktop,1,1. Landing page,1311
+2014-07-01,organic_search,desktop,2,2. Products,860
+2014-07-01,organic_search,desktop,3,3. Product page,744
+2014-07-01,organic_search,desktop,4,4. Cart,319
+2014-07-01,organic_search,desktop,5,5. Shipping,225
+2014-07-01,organic_search,desktop,6,6. Billing,190
+2014-07-01,organic_search,desktop,7,7. Order,128
+2014-07-01,organic_search,mobile,1,1. Landing page,702
+2014-07-01,organic_search,mobile,2,2. Products,351
+2014-07-01,organic_search,mobile,3,3. Product page,248
+2014-07-01,organic_search,mobile,4,4. Cart,113
+2014-07-01,organic_search,mobile,5,5. Shipping,65
+2014-07-01,organic_search,mobile,6,6. Billing,43
+2014-07-01,organic_search,mobile,7,7. Order,20
+2014-07-01,paid_brand,desktop,1,1. Landing page,1221
+2014-07-01,paid_brand,desktop,2,2. Products,821
+2014-07-01,paid_brand,desktop,3,3. Product page,719
+2014-07-01,paid_brand,desktop,4,4. Cart,311
+2014-07-01,paid_brand,desktop,5,5. Shipping,216
+2014-07-01,paid_brand,desktop,6,6. Billing,185
+2014-07-01,paid_brand,desktop,7,7. Order,115
+2014-07-01,paid_brand,mobile,1,1. Landing page,652
+2014-07-01,paid_brand,mobile,2,2. Products,308
+2014-07-01,paid_brand,mobile,3,3. Product page,215
+2014-07-01,paid_brand,mobile,4,4. Cart,88
+2014-07-01,paid_brand,mobile,5,5. Shipping,65
+2014-07-01,paid_brand,mobile,6,6. Billing,44
+2014-07-01,paid_brand,mobile,7,7. Order,29
+2014-07-01,paid_nonbrand,desktop,1,1. Landing page,9057
+2014-07-01,paid_nonbrand,desktop,2,2. Products,5140
+2014-07-01,paid_nonbrand,desktop,3,3. Product page,4539
+2014-07-01,paid_nonbrand,desktop,4,4. Cart,2029
+2014-07-01,paid_nonbrand,desktop,5,5. Shipping,1408
+2014-07-01,paid_nonbrand,desktop,6,6. Billing,1166
+2014-07-01,paid_nonbrand,desktop,7,7. Order,728
+2014-07-01,paid_nonbrand,mobile,1,1. Landing page,4197
+2014-07-01,paid_nonbrand,mobile,2,2. Products,2214
+2014-07-01,paid_nonbrand,mobile,3,3. Product page,1551
+2014-07-01,paid_nonbrand,mobile,4,4. Cart,630
+2014-07-01,paid_nonbrand,mobile,5,5. Shipping,359
+2014-07-01,paid_nonbrand,mobile,6,6. Billing,250
+2014-07-01,paid_nonbrand,mobile,7,7. Order,141
+2014-08-01,direct_type_in,desktop,1,1. Landing page,1118
+2014-08-01,direct_type_in,desktop,2,2. Products,735
+2014-08-01,direct_type_in,desktop,3,3. Product page,649
+2014-08-01,direct_type_in,desktop,4,4. Cart,291
+2014-08-01,direct_type_in,desktop,5,5. Shipping,211
+2014-08-01,direct_type_in,desktop,6,6. Billing,168
+2014-08-01,direct_type_in,desktop,7,7. Order,109
+2014-08-01,direct_type_in,mobile,1,1. Landing page,747
+2014-08-01,direct_type_in,mobile,2,2. Products,366
+2014-08-01,direct_type_in,mobile,3,3. Product page,255
+2014-08-01,direct_type_in,mobile,4,4. Cart,104
+2014-08-01,direct_type_in,mobile,5,5. Shipping,59
+2014-08-01,direct_type_in,mobile,6,6. Billing,43
+2014-08-01,direct_type_in,mobile,7,7. Order,20
+2014-08-01,organic_search,desktop,1,1. Landing page,1279
+2014-08-01,organic_search,desktop,2,2. Products,840
+2014-08-01,organic_search,desktop,3,3. Product page,751
+2014-08-01,organic_search,desktop,4,4. Cart,350
+2014-08-01,organic_search,desktop,5,5. Shipping,249
+2014-08-01,organic_search,desktop,6,6. Billing,207
+2014-08-01,organic_search,desktop,7,7. Order,119
+2014-08-01,organic_search,mobile,1,1. Landing page,669
+2014-08-01,organic_search,mobile,2,2. Products,372
+2014-08-01,organic_search,mobile,3,3. Product page,258
+2014-08-01,organic_search,mobile,4,4. Cart,104
+2014-08-01,organic_search,mobile,5,5. Shipping,64
+2014-08-01,organic_search,mobile,6,6. Billing,42
+2014-08-01,organic_search,mobile,7,7. Order,19
+2014-08-01,paid_brand,desktop,1,1. Landing page,1199
+2014-08-01,paid_brand,desktop,2,2. Products,792
+2014-08-01,paid_brand,desktop,3,3. Product page,713
+2014-08-01,paid_brand,desktop,4,4. Cart,314
+2014-08-01,paid_brand,desktop,5,5. Shipping,218
+2014-08-01,paid_brand,desktop,6,6. Billing,188
+2014-08-01,paid_brand,desktop,7,7. Order,121
+2014-08-01,paid_brand,mobile,1,1. Landing page,687
+2014-08-01,paid_brand,mobile,2,2. Products,347
+2014-08-01,paid_brand,mobile,3,3. Product page,254
+2014-08-01,paid_brand,mobile,4,4. Cart,104
+2014-08-01,paid_brand,mobile,5,5. Shipping,59
+2014-08-01,paid_brand,mobile,6,6. Billing,42
+2014-08-01,paid_brand,mobile,7,7. Order,24
+2014-08-01,paid_nonbrand,desktop,1,1. Landing page,8499
+2014-08-01,paid_nonbrand,desktop,2,2. Products,5090
+2014-08-01,paid_nonbrand,desktop,3,3. Product page,4492
+2014-08-01,paid_nonbrand,desktop,4,4. Cart,2060
+2014-08-01,paid_nonbrand,desktop,5,5. Shipping,1423
+2014-08-01,paid_nonbrand,desktop,6,6. Billing,1164
+2014-08-01,paid_nonbrand,desktop,7,7. Order,763
+2014-08-01,paid_nonbrand,mobile,1,1. Landing page,3972
+2014-08-01,paid_nonbrand,mobile,2,2. Products,2111
+2014-08-01,paid_nonbrand,mobile,3,3. Product page,1500
+2014-08-01,paid_nonbrand,mobile,4,4. Cart,606
+2014-08-01,paid_nonbrand,mobile,5,5. Shipping,377
+2014-08-01,paid_nonbrand,mobile,6,6. Billing,256
+2014-08-01,paid_nonbrand,mobile,7,7. Order,135
+2014-08-01,paid_social,desktop,1,1. Landing page,420
+2014-08-01,paid_social,desktop,2,2. Products,116
+2014-08-01,paid_social,desktop,3,3. Product page,108
+2014-08-01,paid_social,desktop,4,4. Cart,52
+2014-08-01,paid_social,desktop,5,5. Shipping,31
+2014-08-01,paid_social,desktop,6,6. Billing,22
+2014-08-01,paid_social,desktop,7,7. Order,14
+2014-09-01,direct_type_in,desktop,1,1. Landing page,1149
+2014-09-01,direct_type_in,desktop,2,2. Products,767
+2014-09-01,direct_type_in,desktop,3,3. Product page,690
+2014-09-01,direct_type_in,desktop,4,4. Cart,305
+2014-09-01,direct_type_in,desktop,5,5. Shipping,229
+2014-09-01,direct_type_in,desktop,6,6. Billing,192
+2014-09-01,direct_type_in,desktop,7,7. Order,116
+2014-09-01,direct_type_in,mobile,1,1. Landing page,814
+2014-09-01,direct_type_in,mobile,2,2. Products,385
+2014-09-01,direct_type_in,mobile,3,3. Product page,257
+2014-09-01,direct_type_in,mobile,4,4. Cart,117
+2014-09-01,direct_type_in,mobile,5,5. Shipping,67
+2014-09-01,direct_type_in,mobile,6,6. Billing,47
+2014-09-01,direct_type_in,mobile,7,7. Order,31
+2014-09-01,organic_search,desktop,1,1. Landing page,1381
+2014-09-01,organic_search,desktop,2,2. Products,911
+2014-09-01,organic_search,desktop,3,3. Product page,812
+2014-09-01,organic_search,desktop,4,4. Cart,363
+2014-09-01,organic_search,desktop,5,5. Shipping,233
+2014-09-01,organic_search,desktop,6,6. Billing,188
+2014-09-01,organic_search,desktop,7,7. Order,134
+2014-09-01,organic_search,mobile,1,1. Landing page,733
+2014-09-01,organic_search,mobile,2,2. Products,361
+2014-09-01,organic_search,mobile,3,3. Product page,245
+2014-09-01,organic_search,mobile,4,4. Cart,94
+2014-09-01,organic_search,mobile,5,5. Shipping,58
+2014-09-01,organic_search,mobile,6,6. Billing,40
+2014-09-01,organic_search,mobile,7,7. Order,25
+2014-09-01,paid_brand,desktop,1,1. Landing page,1275
+2014-09-01,paid_brand,desktop,2,2. Products,857
+2014-09-01,paid_brand,desktop,3,3. Product page,732
+2014-09-01,paid_brand,desktop,4,4. Cart,312
+2014-09-01,paid_brand,desktop,5,5. Shipping,226
+2014-09-01,paid_brand,desktop,6,6. Billing,187
+2014-09-01,paid_brand,desktop,7,7. Order,124
+2014-09-01,paid_brand,mobile,1,1. Landing page,680
+2014-09-01,paid_brand,mobile,2,2. Products,323
+2014-09-01,paid_brand,mobile,3,3. Product page,216
+2014-09-01,paid_brand,mobile,4,4. Cart,102
+2014-09-01,paid_brand,mobile,5,5. Shipping,65
+2014-09-01,paid_brand,mobile,6,6. Billing,40
+2014-09-01,paid_brand,mobile,7,7. Order,19
+2014-09-01,paid_nonbrand,desktop,1,1. Landing page,8582
+2014-09-01,paid_nonbrand,desktop,2,2. Products,5150
+2014-09-01,paid_nonbrand,desktop,3,3. Product page,4515
+2014-09-01,paid_nonbrand,desktop,4,4. Cart,2092
+2014-09-01,paid_nonbrand,desktop,5,5. Shipping,1473
+2014-09-01,paid_nonbrand,desktop,6,6. Billing,1216
+2014-09-01,paid_nonbrand,desktop,7,7. Order,790
+2014-09-01,paid_nonbrand,mobile,1,1. Landing page,4052
+2014-09-01,paid_nonbrand,mobile,2,2. Products,2120
+2014-09-01,paid_nonbrand,mobile,3,3. Product page,1468
+2014-09-01,paid_nonbrand,mobile,4,4. Cart,566
+2014-09-01,paid_nonbrand,mobile,5,5. Shipping,320
+2014-09-01,paid_nonbrand,mobile,6,6. Billing,231
+2014-09-01,paid_nonbrand,mobile,7,7. Order,136
+2014-09-01,paid_social,desktop,1,1. Landing page,847
+2014-09-01,paid_social,desktop,2,2. Products,253
+2014-09-01,paid_social,desktop,3,3. Product page,221
+2014-09-01,paid_social,desktop,4,4. Cart,108
+2014-09-01,paid_social,desktop,5,5. Shipping,81
+2014-09-01,paid_social,desktop,6,6. Billing,71
+2014-09-01,paid_social,desktop,7,7. Order,49
+2014-10-01,direct_type_in,desktop,1,1. Landing page,1229
+2014-10-01,direct_type_in,desktop,2,2. Products,840
+2014-10-01,direct_type_in,desktop,3,3. Product page,728
+2014-10-01,direct_type_in,desktop,4,4. Cart,310
+2014-10-01,direct_type_in,desktop,5,5. Shipping,219
+2014-10-01,direct_type_in,desktop,6,6. Billing,178
+2014-10-01,direct_type_in,desktop,7,7. Order,125
+2014-10-01,direct_type_in,mobile,1,1. Landing page,912
+2014-10-01,direct_type_in,mobile,2,2. Products,439
+2014-10-01,direct_type_in,mobile,3,3. Product page,319
+2014-10-01,direct_type_in,mobile,4,4. Cart,143
+2014-10-01,direct_type_in,mobile,5,5. Shipping,85
+2014-10-01,direct_type_in,mobile,6,6. Billing,63
+2014-10-01,direct_type_in,mobile,7,7. Order,36
+2014-10-01,organic_search,desktop,1,1. Landing page,1561
+2014-10-01,organic_search,desktop,2,2. Products,1063
+2014-10-01,organic_search,desktop,3,3. Product page,941
+2014-10-01,organic_search,desktop,4,4. Cart,439
+2014-10-01,organic_search,desktop,5,5. Shipping,322
+2014-10-01,organic_search,desktop,6,6. Billing,278
+2014-10-01,organic_search,desktop,7,7. Order,175
+2014-10-01,organic_search,mobile,1,1. Landing page,823
+2014-10-01,organic_search,mobile,2,2. Products,394
+2014-10-01,organic_search,mobile,3,3. Product page,271
+2014-10-01,organic_search,mobile,4,4. Cart,114
+2014-10-01,organic_search,mobile,5,5. Shipping,67
+2014-10-01,organic_search,mobile,6,6. Billing,45
+2014-10-01,organic_search,mobile,7,7. Order,24
+2014-10-01,paid_brand,desktop,1,1. Landing page,1421
+2014-10-01,paid_brand,desktop,2,2. Products,962
+2014-10-01,paid_brand,desktop,3,3. Product page,841
+2014-10-01,paid_brand,desktop,4,4. Cart,402
+2014-10-01,paid_brand,desktop,5,5. Shipping,296
+2014-10-01,paid_brand,desktop,6,6. Billing,244
+2014-10-01,paid_brand,desktop,7,7. Order,157
+2014-10-01,paid_brand,mobile,1,1. Landing page,787
+2014-10-01,paid_brand,mobile,2,2. Products,371
+2014-10-01,paid_brand,mobile,3,3. Product page,252
+2014-10-01,paid_brand,mobile,4,4. Cart,111
+2014-10-01,paid_brand,mobile,5,5. Shipping,71
+2014-10-01,paid_brand,mobile,6,6. Billing,56
+2014-10-01,paid_brand,mobile,7,7. Order,30
+2014-10-01,paid_nonbrand,desktop,1,1. Landing page,9314
+2014-10-01,paid_nonbrand,desktop,2,2. Products,5652
+2014-10-01,paid_nonbrand,desktop,3,3. Product page,4986
+2014-10-01,paid_nonbrand,desktop,4,4. Cart,2252
+2014-10-01,paid_nonbrand,desktop,5,5. Shipping,1606
+2014-10-01,paid_nonbrand,desktop,6,6. Billing,1359
+2014-10-01,paid_nonbrand,desktop,7,7. Order,866
+2014-10-01,paid_nonbrand,mobile,1,1. Landing page,4330
+2014-10-01,paid_nonbrand,mobile,2,2. Products,2214
+2014-10-01,paid_nonbrand,mobile,3,3. Product page,1532
+2014-10-01,paid_nonbrand,mobile,4,4. Cart,663
+2014-10-01,paid_nonbrand,mobile,5,5. Shipping,378
+2014-10-01,paid_nonbrand,mobile,6,6. Billing,265
+2014-10-01,paid_nonbrand,mobile,7,7. Order,141
+2014-10-01,paid_social,desktop,1,1. Landing page,1149
+2014-10-01,paid_social,desktop,2,2. Products,400
+2014-10-01,paid_social,desktop,3,3. Product page,365
+2014-10-01,paid_social,desktop,4,4. Cart,153
+2014-10-01,paid_social,desktop,5,5. Shipping,108
+2014-10-01,paid_social,desktop,6,6. Billing,88
+2014-10-01,paid_social,desktop,7,7. Order,55
+2014-11-01,direct_type_in,desktop,1,1. Landing page,1159
+2014-11-01,direct_type_in,desktop,2,2. Products,781
+2014-11-01,direct_type_in,desktop,3,3. Product page,687
+2014-11-01,direct_type_in,desktop,4,4. Cart,314
+2014-11-01,direct_type_in,desktop,5,5. Shipping,222
+2014-11-01,direct_type_in,desktop,6,6. Billing,183
+2014-11-01,direct_type_in,desktop,7,7. Order,131
+2014-11-01,direct_type_in,mobile,1,1. Landing page,1002
+2014-11-01,direct_type_in,mobile,2,2. Products,484
+2014-11-01,direct_type_in,mobile,3,3. Product page,336
+2014-11-01,direct_type_in,mobile,4,4. Cart,138
+2014-11-01,direct_type_in,mobile,5,5. Shipping,87
+2014-11-01,direct_type_in,mobile,6,6. Billing,63
+2014-11-01,direct_type_in,mobile,7,7. Order,40
+2014-11-01,organic_search,desktop,1,1. Landing page,1432
+2014-11-01,organic_search,desktop,2,2. Products,981
+2014-11-01,organic_search,desktop,3,3. Product page,864
+2014-11-01,organic_search,desktop,4,4. Cart,393
+2014-11-01,organic_search,desktop,5,5. Shipping,278
+2014-11-01,organic_search,desktop,6,6. Billing,223
+2014-11-01,organic_search,desktop,7,7. Order,151
+2014-11-01,organic_search,mobile,1,1. Landing page,861
+2014-11-01,organic_search,mobile,2,2. Products,422
+2014-11-01,organic_search,mobile,3,3. Product page,289
+2014-11-01,organic_search,mobile,4,4. Cart,129
+2014-11-01,organic_search,mobile,5,5. Shipping,74
+2014-11-01,organic_search,mobile,6,6. Billing,54
+2014-11-01,organic_search,mobile,7,7. Order,35
+2014-11-01,paid_brand,desktop,1,1. Landing page,1518
+2014-11-01,paid_brand,desktop,2,2. Products,1012
+2014-11-01,paid_brand,desktop,3,3. Product page,885
+2014-11-01,paid_brand,desktop,4,4. Cart,395
+2014-11-01,paid_brand,desktop,5,5. Shipping,274
+2014-11-01,paid_brand,desktop,6,6. Billing,242
+2014-11-01,paid_brand,desktop,7,7. Order,165
+2014-11-01,paid_brand,mobile,1,1. Landing page,812
+2014-11-01,paid_brand,mobile,2,2. Products,394
+2014-11-01,paid_brand,mobile,3,3. Product page,263
+2014-11-01,paid_brand,mobile,4,4. Cart,110
+2014-11-01,paid_brand,mobile,5,5. Shipping,66
+2014-11-01,paid_brand,mobile,6,6. Billing,41
+2014-11-01,paid_brand,mobile,7,7. Order,24
+2014-11-01,paid_nonbrand,desktop,1,1. Landing page,12113
+2014-11-01,paid_nonbrand,desktop,2,2. Products,7545
+2014-11-01,paid_nonbrand,desktop,3,3. Product page,6625
+2014-11-01,paid_nonbrand,desktop,4,4. Cart,3074
+2014-11-01,paid_nonbrand,desktop,5,5. Shipping,2181
+2014-11-01,paid_nonbrand,desktop,6,6. Billing,1817
+2014-11-01,paid_nonbrand,desktop,7,7. Order,1208
+2014-11-01,paid_nonbrand,mobile,1,1. Landing page,4701
+2014-11-01,paid_nonbrand,mobile,2,2. Products,2385
+2014-11-01,paid_nonbrand,mobile,3,3. Product page,1653
+2014-11-01,paid_nonbrand,mobile,4,4. Cart,691
+2014-11-01,paid_nonbrand,mobile,5,5. Shipping,413
+2014-11-01,paid_nonbrand,mobile,6,6. Billing,288
+2014-11-01,paid_nonbrand,mobile,7,7. Order,149
+2014-11-01,paid_social,desktop,1,1. Landing page,1527
+2014-11-01,paid_social,desktop,2,2. Products,472
+2014-11-01,paid_social,desktop,3,3. Product page,418
+2014-11-01,paid_social,desktop,4,4. Cart,205
+2014-11-01,paid_social,desktop,5,5. Shipping,146
+2014-11-01,paid_social,desktop,6,6. Billing,120
+2014-11-01,paid_social,desktop,7,7. Order,82
+2014-12-01,direct_type_in,desktop,1,1. Landing page,1589
+2014-12-01,direct_type_in,desktop,2,2. Products,1070
+2014-12-01,direct_type_in,desktop,3,3. Product page,944
+2014-12-01,direct_type_in,desktop,4,4. Cart,422
+2014-12-01,direct_type_in,desktop,5,5. Shipping,308
+2014-12-01,direct_type_in,desktop,6,6. Billing,260
+2014-12-01,direct_type_in,desktop,7,7. Order,168
+2014-12-01,direct_type_in,mobile,1,1. Landing page,1223
+2014-12-01,direct_type_in,mobile,2,2. Products,587
+2014-12-01,direct_type_in,mobile,3,3. Product page,407
+2014-12-01,direct_type_in,mobile,4,4. Cart,157
+2014-12-01,direct_type_in,mobile,5,5. Shipping,97
+2014-12-01,direct_type_in,mobile,6,6. Billing,73
+2014-12-01,direct_type_in,mobile,7,7. Order,32
+2014-12-01,organic_search,desktop,1,1. Landing page,1899
+2014-12-01,organic_search,desktop,2,2. Products,1262
+2014-12-01,organic_search,desktop,3,3. Product page,1116
+2014-12-01,organic_search,desktop,4,4. Cart,503
+2014-12-01,organic_search,desktop,5,5. Shipping,343
+2014-12-01,organic_search,desktop,6,6. Billing,269
+2014-12-01,organic_search,desktop,7,7. Order,190
+2014-12-01,organic_search,mobile,1,1. Landing page,1142
+2014-12-01,organic_search,mobile,2,2. Products,521
+2014-12-01,organic_search,mobile,3,3. Product page,376
+2014-12-01,organic_search,mobile,4,4. Cart,158
+2014-12-01,organic_search,mobile,5,5. Shipping,95
+2014-12-01,organic_search,mobile,6,6. Billing,64
+2014-12-01,organic_search,mobile,7,7. Order,30
+2014-12-01,paid_brand,desktop,1,1. Landing page,1970
+2014-12-01,paid_brand,desktop,2,2. Products,1318
+2014-12-01,paid_brand,desktop,3,3. Product page,1190
+2014-12-01,paid_brand,desktop,4,4. Cart,552
+2014-12-01,paid_brand,desktop,5,5. Shipping,371
+2014-12-01,paid_brand,desktop,6,6. Billing,318
+2014-12-01,paid_brand,desktop,7,7. Order,209
+2014-12-01,paid_brand,mobile,1,1. Landing page,1066
+2014-12-01,paid_brand,mobile,2,2. Products,532
+2014-12-01,paid_brand,mobile,3,3. Product page,366
+2014-12-01,paid_brand,mobile,4,4. Cart,173
+2014-12-01,paid_brand,mobile,5,5. Shipping,98
+2014-12-01,paid_brand,mobile,6,6. Billing,60
+2014-12-01,paid_brand,mobile,7,7. Order,30
+2014-12-01,paid_nonbrand,desktop,1,1. Landing page,13847
+2014-12-01,paid_nonbrand,desktop,2,2. Products,8668
+2014-12-01,paid_nonbrand,desktop,3,3. Product page,7758
+2014-12-01,paid_nonbrand,desktop,4,4. Cart,3698
+2014-12-01,paid_nonbrand,desktop,5,5. Shipping,2571
+2014-12-01,paid_nonbrand,desktop,6,6. Billing,2133
+2014-12-01,paid_nonbrand,desktop,7,7. Order,1352
+2014-12-01,paid_nonbrand,mobile,1,1. Landing page,5339
+2014-12-01,paid_nonbrand,mobile,2,2. Products,2792
+2014-12-01,paid_nonbrand,mobile,3,3. Product page,2005
+2014-12-01,paid_nonbrand,mobile,4,4. Cart,854
+2014-12-01,paid_nonbrand,mobile,5,5. Shipping,508
+2014-12-01,paid_nonbrand,mobile,6,6. Billing,358
+2014-12-01,paid_nonbrand,mobile,7,7. Order,215
+2014-12-01,paid_social,desktop,1,1. Landing page,1647
+2014-12-01,paid_social,desktop,2,2. Products,490
+2014-12-01,paid_social,desktop,3,3. Product page,447
+2014-12-01,paid_social,desktop,4,4. Cart,213
+2014-12-01,paid_social,desktop,5,5. Shipping,155
+2014-12-01,paid_social,desktop,6,6. Billing,135
+2014-12-01,paid_social,desktop,7,7. Order,88
+2015-01-01,direct_type_in,desktop,1,1. Landing page,1751
+2015-01-01,direct_type_in,desktop,2,2. Products,1161
+2015-01-01,direct_type_in,desktop,3,3. Product page,1047
+2015-01-01,direct_type_in,desktop,4,4. Cart,489
+2015-01-01,direct_type_in,desktop,5,5. Shipping,343
+2015-01-01,direct_type_in,desktop,6,6. Billing,279
+2015-01-01,direct_type_in,desktop,7,7. Order,176
+2015-01-01,direct_type_in,mobile,1,1. Landing page,1123
+2015-01-01,direct_type_in,mobile,2,2. Products,556
+2015-01-01,direct_type_in,mobile,3,3. Product page,416
+2015-01-01,direct_type_in,mobile,4,4. Cart,163
+2015-01-01,direct_type_in,mobile,5,5. Shipping,98
+2015-01-01,direct_type_in,mobile,6,6. Billing,68
+2015-01-01,direct_type_in,mobile,7,7. Order,39
+2015-01-01,organic_search,desktop,1,1. Landing page,2057
+2015-01-01,organic_search,desktop,2,2. Products,1396
+2015-01-01,organic_search,desktop,3,3. Product page,1256
+2015-01-01,organic_search,desktop,4,4. Cart,587
+2015-01-01,organic_search,desktop,5,5. Shipping,414
+2015-01-01,organic_search,desktop,6,6. Billing,346
+2015-01-01,organic_search,desktop,7,7. Order,239
+2015-01-01,organic_search,mobile,1,1. Landing page,1038
+2015-01-01,organic_search,mobile,2,2. Products,472
+2015-01-01,organic_search,mobile,3,3. Product page,328
+2015-01-01,organic_search,mobile,4,4. Cart,147
+2015-01-01,organic_search,mobile,5,5. Shipping,87
+2015-01-01,organic_search,mobile,6,6. Billing,60
+2015-01-01,organic_search,mobile,7,7. Order,31
+2015-01-01,paid_brand,desktop,1,1. Landing page,1880
+2015-01-01,paid_brand,desktop,2,2. Products,1289
+2015-01-01,paid_brand,desktop,3,3. Product page,1149
+2015-01-01,paid_brand,desktop,4,4. Cart,531
+2015-01-01,paid_brand,desktop,5,5. Shipping,378
+2015-01-01,paid_brand,desktop,6,6. Billing,312
+2015-01-01,paid_brand,desktop,7,7. Order,212
+2015-01-01,paid_brand,mobile,1,1. Landing page,1013
+2015-01-01,paid_brand,mobile,2,2. Products,481
+2015-01-01,paid_brand,mobile,3,3. Product page,346
+2015-01-01,paid_brand,mobile,4,4. Cart,153
+2015-01-01,paid_brand,mobile,5,5. Shipping,85
+2015-01-01,paid_brand,mobile,6,6. Billing,54
+2015-01-01,paid_brand,mobile,7,7. Order,26
+2015-01-01,paid_nonbrand,desktop,1,1. Landing page,11976
+2015-01-01,paid_nonbrand,desktop,2,2. Products,7555
+2015-01-01,paid_nonbrand,desktop,3,3. Product page,6798
+2015-01-01,paid_nonbrand,desktop,4,4. Cart,3131
+2015-01-01,paid_nonbrand,desktop,5,5. Shipping,2228
+2015-01-01,paid_nonbrand,desktop,6,6. Billing,1838
+2015-01-01,paid_nonbrand,desktop,7,7. Order,1208
+2015-01-01,paid_nonbrand,mobile,1,1. Landing page,4499
+2015-01-01,paid_nonbrand,mobile,2,2. Products,2308
+2015-01-01,paid_nonbrand,mobile,3,3. Product page,1653
+2015-01-01,paid_nonbrand,mobile,4,4. Cart,694
+2015-01-01,paid_nonbrand,mobile,5,5. Shipping,415
+2015-01-01,paid_nonbrand,mobile,6,6. Billing,297
+2015-01-01,paid_nonbrand,mobile,7,7. Order,168
+2015-02-01,direct_type_in,desktop,1,1. Landing page,1538
+2015-02-01,direct_type_in,desktop,2,2. Products,1043
+2015-02-01,direct_type_in,desktop,3,3. Product page,946
+2015-02-01,direct_type_in,desktop,4,4. Cart,452
+2015-02-01,direct_type_in,desktop,5,5. Shipping,323
+2015-02-01,direct_type_in,desktop,6,6. Billing,261
+2015-02-01,direct_type_in,desktop,7,7. Order,173
+2015-02-01,direct_type_in,mobile,1,1. Landing page,1084
+2015-02-01,direct_type_in,mobile,2,2. Products,537
+2015-02-01,direct_type_in,mobile,3,3. Product page,392
+2015-02-01,direct_type_in,mobile,4,4. Cart,174
+2015-02-01,direct_type_in,mobile,5,5. Shipping,108
+2015-02-01,direct_type_in,mobile,6,6. Billing,78
+2015-02-01,direct_type_in,mobile,7,7. Order,47
+2015-02-01,organic_search,desktop,1,1. Landing page,1809
+2015-02-01,organic_search,desktop,2,2. Products,1210
+2015-02-01,organic_search,desktop,3,3. Product page,1078
+2015-02-01,organic_search,desktop,4,4. Cart,528
+2015-02-01,organic_search,desktop,5,5. Shipping,349
+2015-02-01,organic_search,desktop,6,6. Billing,286
+2015-02-01,organic_search,desktop,7,7. Order,183
+2015-02-01,organic_search,mobile,1,1. Landing page,973
+2015-02-01,organic_search,mobile,2,2. Products,480
+2015-02-01,organic_search,mobile,3,3. Product page,326
+2015-02-01,organic_search,mobile,4,4. Cart,131
+2015-02-01,organic_search,mobile,5,5. Shipping,77
+2015-02-01,organic_search,mobile,6,6. Billing,57
+2015-02-01,organic_search,mobile,7,7. Order,31
+2015-02-01,paid_brand,desktop,1,1. Landing page,1739
+2015-02-01,paid_brand,desktop,2,2. Products,1177
+2015-02-01,paid_brand,desktop,3,3. Product page,1044
+2015-02-01,paid_brand,desktop,4,4. Cart,550
+2015-02-01,paid_brand,desktop,5,5. Shipping,397
+2015-02-01,paid_brand,desktop,6,6. Billing,330
+2015-02-01,paid_brand,desktop,7,7. Order,220
+2015-02-01,paid_brand,mobile,1,1. Landing page,926
+2015-02-01,paid_brand,mobile,2,2. Products,442
+2015-02-01,paid_brand,mobile,3,3. Product page,309
+2015-02-01,paid_brand,mobile,4,4. Cart,141
+2015-02-01,paid_brand,mobile,5,5. Shipping,75
+2015-02-01,paid_brand,mobile,6,6. Billing,53
+2015-02-01,paid_brand,mobile,7,7. Order,24
+2015-02-01,paid_nonbrand,desktop,1,1. Landing page,11517
+2015-02-01,paid_nonbrand,desktop,2,2. Products,7275
+2015-02-01,paid_nonbrand,desktop,3,3. Product page,6519
+2015-02-01,paid_nonbrand,desktop,4,4. Cart,3235
+2015-02-01,paid_nonbrand,desktop,5,5. Shipping,2258
+2015-02-01,paid_nonbrand,desktop,6,6. Billing,1872
+2015-02-01,paid_nonbrand,desktop,7,7. Order,1224
+2015-02-01,paid_nonbrand,mobile,1,1. Landing page,4192
+2015-02-01,paid_nonbrand,mobile,2,2. Products,2209
+2015-02-01,paid_nonbrand,mobile,3,3. Product page,1573
+2015-02-01,paid_nonbrand,mobile,4,4. Cart,700
+2015-02-01,paid_nonbrand,mobile,5,5. Shipping,401
+2015-02-01,paid_nonbrand,mobile,6,6. Billing,296
+2015-02-01,paid_nonbrand,mobile,7,7. Order,165
+2015-03-01,direct_type_in,desktop,1,1. Landing page,908
+2015-03-01,direct_type_in,desktop,2,2. Products,596
+2015-03-01,direct_type_in,desktop,3,3. Product page,532
+2015-03-01,direct_type_in,desktop,4,4. Cart,265
+2015-03-01,direct_type_in,desktop,5,5. Shipping,177
+2015-03-01,direct_type_in,desktop,6,6. Billing,151
+2015-03-01,direct_type_in,desktop,7,7. Order,97
+2015-03-01,direct_type_in,mobile,1,1. Landing page,720
+2015-03-01,direct_type_in,mobile,2,2. Products,360
+2015-03-01,direct_type_in,mobile,3,3. Product page,252
+2015-03-01,direct_type_in,mobile,4,4. Cart,96
+2015-03-01,direct_type_in,mobile,5,5. Shipping,55
+2015-03-01,direct_type_in,mobile,6,6. Billing,41
+2015-03-01,direct_type_in,mobile,7,7. Order,20
+2015-03-01,organic_search,desktop,1,1. Landing page,1305
+2015-03-01,organic_search,desktop,2,2. Products,866
+2015-03-01,organic_search,desktop,3,3. Product page,767
+2015-03-01,organic_search,desktop,4,4. Cart,383
+2015-03-01,organic_search,desktop,5,5. Shipping,264
+2015-03-01,organic_search,desktop,6,6. Billing,221
+2015-03-01,organic_search,desktop,7,7. Order,137
+2015-03-01,organic_search,mobile,1,1. Landing page,610
+2015-03-01,organic_search,mobile,2,2. Products,302
+2015-03-01,organic_search,mobile,3,3. Product page,216
+2015-03-01,organic_search,mobile,4,4. Cart,87
+2015-03-01,organic_search,mobile,5,5. Shipping,58
+2015-03-01,organic_search,mobile,6,6. Billing,38
+2015-03-01,organic_search,mobile,7,7. Order,19
+2015-03-01,paid_brand,desktop,1,1. Landing page,1132
+2015-03-01,paid_brand,desktop,2,2. Products,768
+2015-03-01,paid_brand,desktop,3,3. Product page,703
+2015-03-01,paid_brand,desktop,4,4. Cart,351
+2015-03-01,paid_brand,desktop,5,5. Shipping,237
+2015-03-01,paid_brand,desktop,6,6. Billing,189
+2015-03-01,paid_brand,desktop,7,7. Order,117
+2015-03-01,paid_brand,mobile,1,1. Landing page,613
+2015-03-01,paid_brand,mobile,2,2. Products,283
+2015-03-01,paid_brand,mobile,3,3. Product page,192
+2015-03-01,paid_brand,mobile,4,4. Cart,80
+2015-03-01,paid_brand,mobile,5,5. Shipping,49
+2015-03-01,paid_brand,mobile,6,6. Billing,33
+2015-03-01,paid_brand,mobile,7,7. Order,23
+2015-03-01,paid_nonbrand,desktop,1,1. Landing page,7130
+2015-03-01,paid_nonbrand,desktop,2,2. Products,4513
+2015-03-01,paid_nonbrand,desktop,3,3. Product page,4061
+2015-03-01,paid_nonbrand,desktop,4,4. Cart,1892
+2015-03-01,paid_nonbrand,desktop,5,5. Shipping,1342
+2015-03-01,paid_nonbrand,desktop,6,6. Billing,1102
+2015-03-01,paid_nonbrand,desktop,7,7. Order,754
+2015-03-01,paid_nonbrand,mobile,1,1. Landing page,2665
+2015-03-01,paid_nonbrand,mobile,2,2. Products,1333
+2015-03-01,paid_nonbrand,mobile,3,3. Product page,999
+2015-03-01,paid_nonbrand,mobile,4,4. Cart,443
+2015-03-01,paid_nonbrand,mobile,5,5. Shipping,255
+2015-03-01,paid_nonbrand,mobile,6,6. Billing,173
+2015-03-01,paid_nonbrand,mobile,7,7. Order,87
