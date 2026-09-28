@@ -10,6 +10,12 @@ for an online retailer with 472k sessions and 32k orders (Maven Fuzzy Factory, 2
 ![statsmodels](https://img.shields.io/badge/statsmodels-A%2FB%20testing-4B8BBE)
 [![Tableau](https://img.shields.io/badge/Tableau%20Public-dashboard-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/mainak.das6780/viz/MavenFuzzyFactory-FunnelandABTestAnalysis/FunnelandABTestOverview)
 
+**Interactive dashboard:** [Tableau Public](https://public.tableau.com/app/profile/mainak.das6780/viz/MavenFuzzyFactory-FunnelandABTestAnalysis/FunnelandABTestOverview) ·
+**Analysis:** [SQL](sql/) · [A/B test notebook](notebooks/02_ab_tests.ipynb) · [EDA notebook](notebooks/01_eda.ipynb) ·
+[Insights report](reports/insights_summary.md)
+
+![Dashboard preview](images/tableau_dashboard.png)
+
 ---
 
 ## Business problem
@@ -91,8 +97,9 @@ The full data dictionary, page inventory, detected experiments and data-quality 
    lift and revenue impact, device and source segments (Simpson's paradox), power/MDE, novelty and post-rollout checks,
    Holm correction across tests.
 5. **EDA charts** ([`notebooks/01_eda.ipynb`](notebooks/01_eda.ipynb)).
-6. **Tableau Public** ([`src/export_for_bi.py`](src/export_for_bi.py), [`tableau/README.md`](tableau/README.md)):
-   Tableau Public can't connect to PostgreSQL, so the views are exported to `data/processed/*.csv`.
+6. **Tableau Public dashboard** ([`src/export_for_bi.py`](src/export_for_bi.py), [`tableau/README.md`](tableau/README.md)):
+   Tableau Public can't connect to PostgreSQL, so the SQL views are exported to `data/processed/*.csv`, uploaded to the
+   Tableau Public web editor and [published](https://public.tableau.com/app/profile/mainak.das6780/viz/MavenFuzzyFactory-FunnelandABTestAnalysis/FunnelandABTestOverview).
 7. **Insights** ([`reports/insights_summary.md`](reports/insights_summary.md)).
 
 ## Highlight queries
@@ -172,23 +179,32 @@ refund-rate baselines.
   Their conversion results are inconclusive, not negative.
 - The winners held after rollout (/billing-2 63.3%, /lander-5 9.89% in the following 8 weeks). No novelty effect.
 
-## Charts
+## Dashboard
+
+**[Open the interactive version on Tableau Public](https://public.tableau.com/app/profile/mainak.das6780/viz/MavenFuzzyFactory-FunnelandABTestAnalysis/FunnelandABTestOverview)**
+
+![Tableau dashboard](images/tableau_dashboard.png)
+
+| Chart | Data source | What it shows |
+|---|---|---|
+| Monthly Sessions by Channel | `daily_summary.csv` | sessions per full month, one line per channel |
+| AB Test Results | `ab_test_results.csv` | 95% CI of the conversion difference (B - A) per test, labelled with relative lift, coloured by decision |
+| Conversion by Channel and Device | `daily_summary.csv` | highlight table of `SUM(orders) / SUM(sessions)` |
+| Conversion Funnel | `funnel_steps.csv` | sessions per step with `% of previous step`; the largest drop-off (cart, 45.2%) is highlighted |
+
+Calculated fields used: `Conversion Rate = SUM([Orders]) / SUM([Sessions])`,
+`Pct of Previous Step = SUM([Sessions]) / LOOKUP(SUM([Sessions]), -1)`,
+`Funnel Highlight = IF [Pct of Previous Step] = WINDOW_MIN([Pct of Previous Step]) THEN "Largest drop-off" ELSE "Other steps" END`,
+`CI Width = SUM([Conv Diff Ci High]) - SUM([Conv Diff Ci Low])` (Gantt bar size).
+Ideas for extending it (KPI cards with YoY, filters, phone layout) are in [`tableau/README.md`](tableau/README.md).
+
+## Charts (Python)
 
 | | |
 |---|---|
 | ![Funnel](images/funnel.png) | ![Conversion by channel and device](images/conversion_by_channel_device.png) |
 | ![Channel mix](images/channel_mix.png) | ![Revenue per session](images/revenue_per_session.png) |
 | ![Product revenue](images/product_revenue.png) | ![Refund rate](images/refund_rate.png) |
-
-### Tableau Public dashboard
-
-**[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/mainak.das6780/viz/MavenFuzzyFactory-FunnelandABTestAnalysis/FunnelandABTestOverview)**
-
-![Tableau dashboard](images/tableau_dashboard.png)
-
-Monthly sessions by channel, the A/B test confidence intervals (labelled with relative lift), conversion by channel x
-device, and the funnel with the largest drop-off highlighted. The full build guide, calculated fields and layouts for an
-extended version are in [`tableau/README.md`](tableau/README.md).
 
 ## Key insights
 
@@ -228,7 +244,10 @@ The details, expected impact, risks and next tests are in [`reports/insights_sum
   add-ons, most before the page existed. I corrected my notes and started the cross-sell analysis window in December 2014.
 - **Window functions over gaps.** Paid social ran in two bursts, so a plain `LAG` compared non-adjacent months.
 - **Tableau Public can't read PostgreSQL**, so I built aggregate views that keep counts (not rates) and export them to
-  CSV. Rates are rebuilt in Tableau as `SUM / SUM`.
+  CSV. Rates are rebuilt in Tableau as `SUM / SUM`, so they stay correct at any level of aggregation.
+- **Showing tests on very different scales.** Billing conversion is around 45-62% while landing pages are 3-10%, so
+  side-by-side rate bars made the landing tests unreadable. I switched to a forest plot of the *difference* with its
+  confidence interval (Gantt bars sized by CI width), which puts all five tests on one comparable axis.
 
 ## How to reproduce
 
@@ -252,6 +271,9 @@ psql -h localhost -U funnel_user -d fuzzy_factory -f sql/04_funnel.sql
 # 4. Notebooks and Tableau export
 jupyter nbconvert --to notebook --execute --inplace notebooks/01_eda.ipynb notebooks/02_ab_tests.ipynb
 python src/export_for_bi.py
+
+# 5. Dashboard: public.tableau.com > Create > Web Authoring, upload the CSVs in data/processed/
+#    (daily_summary, funnel_steps, ab_test_results) as separate data sources, then build the sheets above
 ```
 
 ## Project structure
@@ -262,12 +284,13 @@ sql/                   01 schema, 02 validation, 03-05 analysis, views.sql
 src/                   db connection, profiling, loader, A/B helpers, chart style, Tableau export
 notebooks/             01 EDA, 02 A/B tests
 reports/               data understanding, insights summary
-tableau/               dashboard build guide
-images/                charts used in this README
+tableau/               dashboard notes and build guide (published link at the top)
+images/                Python charts and the dashboard screenshot used in this README
 ```
 
 ## What I'd do next
 
+- Extend the dashboard with KPI cards and year-over-year change, channel/device filters and a phone layout.
 - Add ad spend data to move from revenue per session to ROAS and cost per order by channel and device.
 - Run the tests proposed in the report: product page add-to-cart, a mobile landing page, one-page mobile checkout.
 - Use a sequential testing method so tests can be monitored without the peeking problem.
