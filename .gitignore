@@ -7,7 +7,5 @@ __pycache__/
 # raw data is downloaded separately (see README)
 data/raw/
 
-
 # OS
 .DS_Store
-
