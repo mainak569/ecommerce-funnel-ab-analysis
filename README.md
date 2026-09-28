@@ -8,7 +8,7 @@ for an online retailer with 472k sessions and 32k orders (Maven Fuzzy Factory, 2
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-A%2FB%20testing-4B8BBE)
-![Tableau](https://img.shields.io/badge/Tableau%20Public-E97627?logo=tableau&logoColor=white)
+[![Tableau](https://img.shields.io/badge/Tableau%20Public-dashboard-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/mainak.das6780/viz/MavenFuzzyFactory-FunnelandABTestAnalysis/FunnelandABTestOverview)
 
 ---
 
@@ -180,8 +180,15 @@ refund-rate baselines.
 | ![Channel mix](images/channel_mix.png) | ![Revenue per session](images/revenue_per_session.png) |
 | ![Product revenue](images/product_revenue.png) | ![Refund rate](images/refund_rate.png) |
 
-**Tableau Public dashboard:** Executive Overview, Channels & Devices, Conversion Funnel, A/B Test Results,
-Insights & Recommendations. The build guide, calculated fields and layouts are in [`tableau/README.md`](tableau/README.md).
+### Tableau Public dashboard
+
+**[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/mainak.das6780/viz/MavenFuzzyFactory-FunnelandABTestAnalysis/FunnelandABTestOverview)**
+
+![Tableau dashboard](images/tableau_dashboard.png)
+
+Monthly sessions by channel, the A/B test confidence intervals (labelled with relative lift), conversion by channel x
+device, and the funnel with the largest drop-off highlighted. The full build guide, calculated fields and layouts for an
+extended version are in [`tableau/README.md`](tableau/README.md).
 
 ## Key insights
 

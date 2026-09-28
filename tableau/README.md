@@ -1,5 +1,10 @@
 # Tableau Public dashboard: build guide
 
+Published version: [Maven Fuzzy Factory - Funnel and AB Test Analysis](https://public.tableau.com/app/profile/mainak.das6780/viz/MavenFuzzyFactory-FunnelandABTestAnalysis/FunnelandABTestOverview)
+(built in the Tableau Public web editor from `daily_summary`, `funnel_steps`, `ab_test_results` and `ab_test_variants`).
+It has four sheets (Monthly Sessions by Channel, AB Test Results, Conversion by Channel and Device, Conversion Funnel)
+on one overview dashboard. The rest of this guide describes the fuller five-dashboard version.
+
 Tableau Public cannot connect to PostgreSQL, so `src/export_for_bi.py` writes the data to CSV:
 
 ```bash
