@@ -97,7 +97,7 @@ The full data dictionary, page inventory, detected experiments and data-quality 
    lift and revenue impact, device and source segments (Simpson's paradox), power/MDE, novelty and post-rollout checks,
    Holm correction across tests.
 5. **EDA charts** ([`notebooks/01_eda.ipynb`](notebooks/01_eda.ipynb)).
-6. **Tableau Public dashboard** ([`src/export_for_bi.py`](src/export_for_bi.py), [`tableau/README.md`](tableau/README.md)):
+6. **Tableau Public dashboard** ([`src/export_for_bi.py`](src/export_for_bi.py)):
    Tableau Public can't connect to PostgreSQL, so the SQL views are exported to `data/processed/*.csv`, uploaded to the
    Tableau Public web editor and [published](https://public.tableau.com/app/profile/mainak.das6780/viz/MavenFuzzyFactory-FunnelandABTestAnalysis/FunnelandABTestOverview).
 7. **Insights** ([`reports/insights_summary.md`](reports/insights_summary.md)).
@@ -194,7 +194,6 @@ Calculated fields used: `Conversion Rate = SUM([Orders]) / SUM([Sessions])`,
 `Pct of Previous Step = SUM([Sessions]) / LOOKUP(SUM([Sessions]), -1)`,
 `Funnel Highlight = IF [Pct of Previous Step] = WINDOW_MIN([Pct of Previous Step]) THEN "Largest drop-off" ELSE "Other steps" END`,
 `CI Width = SUM([Conv Diff Ci High]) - SUM([Conv Diff Ci Low])` (Gantt bar size).
-Ideas for extending it (KPI cards with YoY, filters, phone layout) are in [`tableau/README.md`](tableau/README.md).
 
 ## Charts (Python)
 
@@ -282,7 +281,6 @@ sql/                   01 schema, 02 validation, 03-05 analysis, views.sql
 src/                   db connection, profiling, loader, A/B helpers, chart style, Tableau export
 notebooks/             01 EDA, 02 A/B tests
 reports/               data understanding, insights summary
-tableau/               dashboard notes and build guide (published link at the top)
 images/                Python charts and the dashboard screenshot used in this README
 ```
 
