@@ -32,7 +32,7 @@ Every number comes from `sql/03-05`, `notebooks/01_eda.ipynb` or `notebooks/02_a
 | paid_social | 10,685 | 2.3% | 3.21% | $2.08 |
 
 - Paid nonbrand brings 69.6% of revenue ($1.35M) but has the lowest conversion of the search channels.
-- Brand, organic and direct (visitors who already know the store) grew from 16.1% of sessions in Apr12-Feb13 to 30.8%
+- Brand, organic and direct (visitors who already know the store) grew from 16.1% of sessions in Apr12-Feb13 to 30.7%
   in Apr14-Feb15. Paid nonbrand fell from 83.9% to 66.9%. The brand is getting stronger, and the business is less
   exposed to paid search costs.
 - Paid social is the weakest channel: 3.21% conversion, $2.08 per session, and 77.6% of its visitors leave on the
