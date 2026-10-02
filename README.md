@@ -14,6 +14,8 @@ for an online retailer with 472k sessions and 32k orders (Maven Fuzzy Factory, 2
 **Analysis:** [SQL](sql/) · [A/B test notebook](notebooks/02_ab_tests.ipynb) · [EDA notebook](notebooks/01_eda.ipynb) ·
 [Insights report](reports/insights_summary.md)
 
+https://github.com/user-attachments/assets/46b26652-4806-42c6-882e-198f8e62c84b
+
 ![Dashboard preview](images/tableau_dashboard.png)
 
 ---
