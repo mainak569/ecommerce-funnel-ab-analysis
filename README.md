@@ -16,8 +16,6 @@ for an online retailer with 472k sessions and 32k orders (Maven Fuzzy Factory, 2
 
 https://github.com/user-attachments/assets/46b26652-4806-42c6-882e-198f8e62c84b
 
-![Dashboard preview](images/tableau_dashboard.png)
-
 ---
 
 ## Business problem
@@ -37,6 +35,8 @@ Maven Fuzzy Factory sells teddy bears online and buys most of its traffic from p
 | Best landing page | /lander-5: order conversion **8.37% to 10.02%** (+19.7%, p < 0.001) |
 | Test value | The two winning pages are worth about **+$15,500 a month** at test-period traffic |
 | Traffic quality | Revenue per session tripled, **$1.52 to $4.93** (Q2 2012 to Q4 2014) |
+
+![Dashboard preview](images/tableau_dashboard.png)
 
 ## Data
 
